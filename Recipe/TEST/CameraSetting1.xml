@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parameter>
+	<IP>192.168.100.100</IP>
+	<ExposureTime>43864</ExposureTime>
+	<Gain>1</Gain>
+	<Rotate>0</Rotate>
+	<Factor>1.0000</Factor>
+	<Thickness>10</Thickness>
+	<IspLamiThickness>10</IspLamiThickness>
+	<Threshold>125</Threshold>
+	<IspLamiThreshold>250</IspLamiThreshold>
+	<EdgeColor>2</EdgeColor>
+	<IspLamiEdgeColor>2</IspLamiEdgeColor>
+	<ROI>0,0,0,0</ROI>
+	<LightModel>PD300</LightModel>
+	<LightIndex>0</LightIndex>
+</Parameter>

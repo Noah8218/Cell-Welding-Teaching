@@ -1,0 +1,62 @@
+[NORMAL]   20-09-07 18:46:41.132 [     0]  [OK] Logger==>SetPath
+[NORMAL]   20-09-07 18:46:41.151 [    18]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-09-07 18:46:41.166 [    14]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-09-07 18:46:41.548 [   381]  Start S/W
+[NORMAL]   20-09-07 18:46:41.560 [    11]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.565 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.570 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.575 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.580 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.584 [     3]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.589 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.594 [     4]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.619 [    24]  [OK] IData==>InitDirectory
+[NORMAL]   20-09-07 18:46:41.624 [     4]  [OK] FormMain==>InitImageDirectory
+[NORMAL]   20-09-07 18:46:41.635 [    11]  [OK] IData==>WriteInitFile
+[NORMAL]   20-09-07 18:46:41.767 [   131]  [OK] IData==>InitRecipeDirectory
+[NORMAL]   20-09-07 18:46:41.783 [    15]  [OK] IRecipe==>WriteInitOffsetFile
+[NORMAL]   20-09-07 18:46:41.791 [     7]  [OK] FormMain==>InitConfig
+[NORMAL]   20-09-07 18:46:41.799 [     7]  [OK] ILightController==>InitConfigDirectory
+[NORMAL]   20-09-07 18:46:41.813 [    13]  [OK] ILightController==>WriteInitFile
+[NORMAL]   20-09-07 18:46:41.818 [     4]  File is't exist => D:\SourceFile\20200907- 03\Config\
+[NORMAL]   20-09-07 18:46:41.870 [    51]  [OK] ILightController==>Init
+[NORMAL]   20-09-07 18:46:41.883 [    12]  [OK] ILightController==>WriteInitFile
+[NORMAL]   20-09-07 18:46:41.889 [     5]  File is't exist => D:\SourceFile\20200907- 03\Config\
+[NORMAL]   20-09-07 18:46:41.940 [    50]  [OK] ILightController==>Init
+[NORMAL]   20-09-07 18:46:41.946 [     5]  [OK] FormMain==>InitLightController
+[NORMAL]   20-09-07 18:46:41.982 [    35]  [OK] FormMain==>OnCCLinkChnagedConnection
+[NORMAL]   20-09-07 18:46:41.992 [     9]  [OK] ICommCCLink==>InitIO
+[INSPECTION] 20-09-07 18:46:41.997 [     4]  Read the Input Signal
+[NORMAL]   20-09-07 18:46:42.003 [     5]  [OK] ICommCCLink==>Init
+[IO]       20-09-07 18:46:42.008 [     5]  [OutputAlignSupplyResultNG] OFF ==> OFF
+[IO]       20-09-07 18:46:42.019 [    10]  [OutputAlignSupplyResultOK] OFF ==> OFF
+[IO]       20-09-07 18:46:42.024 [     4]  [OutputPcAlarm] OFF ==> OFF
+[IO]       20-09-07 18:46:42.034 [     9]  [OutputPcWarning] OFF ==> OFF
+[IO]       20-09-07 18:46:42.040 [     5]  [OutputReqAlignLamiAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.049 [     8]  [OutputReqAlignLamiMove] ON ==> OFF
+[IO]       20-09-07 18:46:42.054 [     4]  [OutputReqAlignLamiCalAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.064 [     9]  [OutputReqAlignLamiMoveAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.069 [     4]  [OutputReqAlignSupplyAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.079 [     9]  [OutputReqAlignSupplyMove] OFF ==> OFF
+[IO]       20-09-07 18:46:42.085 [     5]  [OutputReqAlignSupplyCalAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.094 [     8]  [OutputReqAlignSupplyMoveAck] OFF ==> OFF
+[IO]       20-09-07 18:46:42.099 [     4]  [OutputReqAlignLamiStart] OFF ==> OFF
+[NORMAL]   20-09-07 18:46:42.104 [     4]  [OK] FormMain==>InitCCLink
+[IO]       20-09-07 18:46:42.111 [     6]  [InputPLCWarning] ON ==> ON
+[NORMAL]   20-09-07 18:46:42.157 [    45]  [OK] IData==>InitRecipeDirectory
+[NORMAL]   20-09-07 18:46:42.174 [    16]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-09-07 18:46:42.181 [     6]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-07 18:46:45.202 [  3020]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-07 18:46:45.209 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-07 18:46:45.226 [    16]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-07 18:46:48.236 [  3009]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-07 18:46:48.242 [     5]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-07 18:46:48.259 [    16]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-07 18:46:51.269 [  3009]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-07 18:46:51.276 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-07 18:46:51.294 [    17]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-07 18:46:54.304 [  3010]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-07 18:46:54.310 [     5]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-07 18:46:54.328 [    17]  [FAILED] ICameraJai/UpdateParameter   Execption ==> True
+[NORMAL]   20-09-07 18:46:54.345 [    16]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-09-07 18:46:54.353 [     7]  [OK] ICameraJai==>Disconnect

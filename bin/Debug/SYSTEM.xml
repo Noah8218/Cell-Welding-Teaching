@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SYSTEM>
+	<License />
+	<Password_Engineer>0000</Password_Engineer>
+	<Password_Administrator>0000</Password_Administrator>
+	<Algorithm>Pattern Matching</Algorithm>
+	<LastRecipe />
+	<LastRecipeUpdateTime />
+	<DeleteLogDay>7</DeleteLogDay>
+	<DrivePath>C</DrivePath>
+	<DrivePath>C</DrivePath>
+	<DriveVolum>80</DriveVolum>
+	<DeleteImageDay>7</DeleteImageDay>
+</SYSTEM>

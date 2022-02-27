@@ -1,0 +1,743 @@
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\dll\x86\OpenCvSharpExtern.dll
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\dll\x64\OpenCvSharpExtern.dll
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\IntelligentAlign.exe.config
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\IntelligentVisionNew\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210308 - 02_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 01_동은정공\20210103-01-송현수\obj\x86\Debug\IntelligentAlign.pdb
+C:\test\IntelligentVisionNew\dll\x86\OpenCvSharpExtern.dll
+C:\test\IntelligentVisionNew\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\test\IntelligentVisionNew\dll\x64\OpenCvSharpExtern.dll
+C:\test\IntelligentVisionNew\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\test\IntelligentVisionNew\IntelligentAlign.exe.config
+C:\test\IntelligentVisionNew\IntelligentAlign.exe
+C:\test\IntelligentVisionNew\IntelligentAlign.pdb
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.exe
+C:\test\20210310 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\dll\x86\OpenCvSharpExtern.dll
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\dll\x64\OpenCvSharpExtern.dll
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\IntelligentAlign.exe.config
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\IntelligentVisionNew\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210310 - 02\20210103-01\obj\x86\Debug\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210311 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.pdb
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210320 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormCalibration.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormSetting.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.exe
+C:\[0. Project]\7. 한솔루션\1. 동은정공\20210402 - 01\20210103-01\obj\x86\Debug\IntelligentAlign.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\IntelligentVision.exe.config
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\IntelligentVisionNew\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormDiagnostic.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormIO.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210403-02\obj\x86\Debug\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\20210404-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\20210404-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\20210404-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210404-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\20210404-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\20210404-01\obj\x86\Debug\IntelligentVision.exe
+D:\20210404-01\obj\x86\Debug\IntelligentVision.pdb
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.ILightController.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\20210404-02\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\20210404-02\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\20210404-02\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210404-02\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\20210404-02\obj\x86\Debug\IntelligentVision.exe
+D:\20210404-02\obj\x86\Debug\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x86\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x64\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.exe.config
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.exe
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.pdb
+D:\20210404-02\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.exe.config
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormIO.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403 - 복사본\lg-UG\IntelligentVision.resources.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210404-03\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\20210405-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\20210405-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\20210405-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+D:\20210405-01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\20210405-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\20210405-01\obj\x86\Debug\IntelligentVision.exe
+D:\20210405-01\obj\x86\Debug\IntelligentVision.pdb
+D:\20210405-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+F:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.ILightController.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormInit.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormIO.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormROI.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+F:\Project\동은정공\20210405-03\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.exe
+F:\Project\동은정공\20210405-03\obj\x86\Debug\IntelligentVision.pdb
+D:\20210405-03\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.ILightController.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\20210405-03\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\20210405-03\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\20210405-03\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210405-03\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\20210405-03\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\20210405-03\obj\x86\Debug\IntelligentVision.exe
+D:\20210405-03\obj\x86\Debug\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentVision.exe
+C:\Users\ata11\Desktop\20210403-01-SHS-동은정공\0. 소스코드\0. 최신\20210406-01\obj\x86\Debug\IntelligentVision.pdb
+D:\20210406-01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.ILightController.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\20210406-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\20210406-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\20210406-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210406-01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\20210406-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\20210406-01\obj\x86\Debug\IntelligentVision.exe
+D:\20210406-01\obj\x86\Debug\IntelligentVision.pdb
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+E:\20210406-06-20210410T042943Z-001\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.Device.DevLightController.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentVision.exe
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentVision.pdb
+E:\20210406-06-20210410T042943Z-001\20210411-01\obj\x86\Debug\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+E:\Project\동은정공\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210411-01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentVision.exe
+E:\Project\동은정공\20210411-01\obj\x86\Debug\IntelligentVision.pdb
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.ILightController_DPS.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.exe
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x86\Debug\IntelligentVision.pdb
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.ILightController_DPS.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormImageView.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormIO.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormLicense.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormMetroFrameBackup.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormROI.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormTrain.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.Library.LogView.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.Library.RichTextBoxEx.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\송현수 테스트\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\lg-UG\IntelligentVision.resources.dll
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.exe
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.pdb
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\송현수 테스트\20210419 - 02 - SHS\obj\x86\Debug\IntelligentFactory.FormPermission.resources
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+F:\셀_어레이_비전_new\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.CLightController.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormECT.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormIO_PLC.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_Grabber.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormTeaching.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_EROI.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormImageView.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormInit.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormIO_BD.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_EFilter.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormPermission.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_Illumination.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.LogView.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.RichTextBoxEx.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormSettings_MROI.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentFactory.FormImageEditView.resources
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentVision.exe
+F:\셀_어레이_비전_new\대표님\obj\x86\Debug\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormECT.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormImageView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormInit.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormPermission.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.ICanvas.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.LogView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.exe
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\x86\Debug\IntelligentVision.pdb

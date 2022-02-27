@@ -1,0 +1,58 @@
+[NORMAL]   20-09-14 19:37:47.586 [     0]  [OK] Logger==>SetPath
+[NORMAL]   20-09-14 19:37:47.606 [    19]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-09-14 19:37:47.621 [    14]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-09-14 19:37:47.974 [   353]  Start S/W
+[NORMAL]   20-09-14 19:37:47.986 [    11]  [OK] FormMain==>InitImageDirectory
+[NORMAL]   20-09-14 19:37:47.993 [     6]  [OK] IData==>ReadInitFileFromXML
+[ABNORMAL] 20-09-14 19:37:48.004 [    10]  [FAILED] IRecipe==>ReadInitFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-09-14 19:37:48.010 [     5]  [OK] FormMain==>InitRecipe
+[ABNORMAL] 20-09-14 19:37:48.145 [   134]  [FAILED] IRecipe==>ReadInitFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-09-14 19:37:48.152 [     6]  [OK] FormMain==>InitRecipe
+[ABNORMAL] 20-09-14 19:37:48.159 [     6]  [FAILED] IRecipe==>ReadInitOffsetFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-09-14 19:37:48.165 [     5]  [OK] FormMain==>InitConfig
+[NORMAL]   20-09-14 19:37:48.175 [     9]  [OK] ILightController==>ReadInitFileFromXML
+[NORMAL]   20-09-14 19:37:48.227 [    51]  [OK] ILightController==>Init
+[NORMAL]   20-09-14 19:37:48.233 [     5]  [OK] ILightController==>ReadInitFileFromXML
+[ABNORMAL] 20-09-14 19:37:48.257 [    23]  [FAILED] ILightController/Init   Execption ==> 'COM5' 포트에 대한 액세스가 거부되었습니다.
+[NORMAL]   20-09-14 19:37:48.263 [     5]  [OK] FormMain==>InitLightController
+[NORMAL]   20-09-14 19:37:48.301 [    38]  [OK] FormMain==>OnCCLinkChnagedConnection
+[NORMAL]   20-09-14 19:37:48.310 [     8]  [OK] ICommCCLink==>InitIO
+[INSPECTION] 20-09-14 19:37:48.315 [     4]  Read the Input Signal
+[NORMAL]   20-09-14 19:37:48.320 [     4]  [OK] ICommCCLink==>Init
+[IO]       20-09-14 19:37:48.326 [     5]  [OutputAlignSupplyResultNG] OFF ==> OFF
+[IO]       20-09-14 19:37:48.334 [     7]  [OutputAlignSupplyResultOK] OFF ==> OFF
+[IO]       20-09-14 19:37:48.339 [     4]  [OutputPcAlarm] OFF ==> OFF
+[IO]       20-09-14 19:37:48.348 [     8]  [OutputPcWarning] OFF ==> OFF
+[IO]       20-09-14 19:37:48.353 [     4]  [OutputReqAlignLamiAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.364 [    10]  [OutputReqAlignLamiMove] OFF ==> OFF
+[IO]       20-09-14 19:37:48.370 [     5]  [OutputReqAlignLamiCalAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.378 [     7]  [OutputReqAlignLamiMoveAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.383 [     4]  [OutputReqAlignSupplyAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.388 [     4]  [OutputReqAlignSupplyMove] OFF ==> OFF
+[IO]       20-09-14 19:37:48.395 [     6]  [OutputReqAlignSupplyCalAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.399 [     3]  [OutputReqAlignSupplyMoveAck] OFF ==> OFF
+[IO]       20-09-14 19:37:48.408 [     8]  [OutputReqAlignLamiStart] OFF ==> OFF
+[NORMAL]   20-09-14 19:37:48.413 [     4]  [OK] FormMain==>InitCCLink
+[IO]       20-09-14 19:37:48.427 [    13]  [InputPLCWarning] ON ==> ON
+[NORMAL]   20-09-14 19:37:48.465 [    37]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-09-14 19:37:48.472 [     6]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:37:51.488 [  3015]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:37:51.495 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-14 19:37:51.512 [    16]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:37:54.521 [  3008]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:37:54.528 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-14 19:37:54.544 [    15]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:37:57.553 [  3009]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:37:57.559 [     5]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-14 19:37:57.576 [    16]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:38:00.585 [  3008]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:38:00.592 [     6]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:38:00.609 [    16]  [FAILED] ICameraJai/UpdateParameter   Execption ==> True
+[NORMAL]   20-09-14 19:38:00.626 [    16]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-09-14 19:38:00.632 [     5]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:38:03.642 [  3009]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:38:03.649 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-14 19:38:03.667 [    17]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-09-14 19:38:06.676 [  3008]  [FAILED] ICameraJai/Connect   Execption ==> TIMEOUT: Command link operation failure
+[NORMAL]   20-09-14 19:38:06.682 [     6]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-09-14 19:38:06.698 [    15]  [OK] ICameraJai==>Disconnect

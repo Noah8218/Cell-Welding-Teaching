@@ -1,0 +1,4 @@
+[NORMAL]   21-12-22 10:21:37.281 [     0]  [OK] Logger==>SetPath
+[NORMAL]   21-12-22 10:21:37.284 [     2]  [OK] ISystem==>SaveConfig
+[ABNORMAL] 21-12-22 10:21:38.375 [  1090]  [Fail] - PLC Server Ping TEST
+[NORMAL]   21-12-22 10:21:38.378 [     2]  [ALARM] ==> Failed the Init ComMelsec

@@ -1,0 +1,2077 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Reflection;
+using System.Threading;
+using System.Diagnostics;
+
+//IF 전용 Library
+using IntelligentFactory.Library;
+using IntelligentFactory.Vision;
+using IntelligentFactory.Common;
+
+using OpenCvSharp;
+using IntelligentFactory.Camera;
+using IntelligentFactory.Device;
+using OpenCvSharp.Extensions;
+
+namespace IntelligentFactory
+{
+    using ListPoint = List<OpenCvSharp.Point>;
+    public partial class FormTrain : Form
+    {
+        public enum ParameterMode
+        {
+            Inspection = 0,
+            Align = 1,
+            Bottom = 2
+        }
+
+        private int m_nMode = 0;
+
+        private Mat m_MatTrainSource = new Mat();
+        public Mat MatTrainSource
+        {
+            get { return m_MatTrainSource; }
+            set { m_MatTrainSource = value; }
+        }
+        private Mat m_MatDrawResult = new Mat();
+
+        private bool m_bViewROI = false;
+   
+        public IData iData
+        {
+            get;
+            set;
+        }
+
+        private const int ALIGN_LAMI_CAMERA_LEFT = 2;
+        private const int ALIGN_LAMI_CAMERA_RIGHT = 5;
+        private const int ALIGN_LAMI_CAMERA_TOPLEFT = 1;
+        private const int ALIGN_LAMI_CAMERA_TOPRIGHT = 4;
+        private const int ALIGN_LAMI_CAMERA_BOTTOMLEFT = 0;
+        private const int ALIGN_LAMI_CAMERA_BOTTOMRIGHT = 3;
+
+        public FormTrain()
+        {
+            InitializeComponent();
+
+            tcCalibrationTools.Appearance = TabAppearance.FlatButtons;
+            tcCalibrationTools.ItemSize = new System.Drawing.Size(0, 1);
+            tcCalibrationTools.SizeMode = TabSizeMode.Fixed;
+        }
+
+        private void FormTrain_Load(object sender, EventArgs e)
+        {
+            m_nMode = (int)iData.Parameter;
+
+            InitParameter();
+            InitControl();
+            //HideControl();
+            LoadUseIsp();
+            for (int i = 0; i < iData.ListCamera.Count; i++)
+            {
+                iData.ListCamera[i].EventGrabEnd += OnGrabEnd;
+            }
+        }
+
+        public bool LoadUseIsp()
+        {
+            try
+            {
+                if (m_nMode == (int)ParameterMode.Inspection)
+                {
+                    btnMode_MouseClick(btnModeInspection, null);
+                }
+                else if(m_nMode == (int)ParameterMode.Align)
+                {
+                    btnMode_MouseClick(btnModeAlign, null);
+                }
+                else if(m_nMode == (int)ParameterMode.Bottom)
+                {
+                    btnMode_MouseClick(btnModeBottom, null);
+                }
+
+                for (int i = 0; i < iData.ListCamera.Count; i++)
+                {
+                    if (i == 6 || i == 7)
+                    {
+
+                    }
+                    else
+                    {
+                        if (m_nMode == (int)ParameterMode.Inspection)
+                        {
+                            iData.ListCamera[i].UpdateInspectionParameter();
+                        }
+                        else if(m_nMode == (int)ParameterMode.Align)
+                        {
+                            iData.ListCamera[i].UpdateParameter();
+                        }
+                        else if(m_nMode == (int)ParameterMode.Bottom)
+                        {
+                            iData.ListCamera[i].UpdateBottomParameter();
+                        }
+                    }
+                }
+
+                if (iData.Recipe.UseFactor)
+                {
+                    btnFactorUse.BackColor = Color.Aquamarine;
+                    btnFactorUse.ForeColor = Color.Black;
+                }
+                else
+                {
+                    btnFactorUse.BackColor = Color.Black;
+                    btnFactorUse.ForeColor = Color.White;
+                }
+
+                cbLightModel.SelectedIndex = 1;
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                return false;
+            }
+
+            return true;
+        }
+
+        private void HideControl()
+        {
+            try
+            {
+                btnErrode.Visible = false;
+                btnDilate.Visible = false;
+                btnCanny.Visible = false;
+                btnHoughLine.Visible = false;
+                btnReverse.Visible = false;
+                lbComport.Visible = false;
+                cbLightComport.Visible = false;
+                btnLightReConnect.Visible = false;
+                panel17.Visible = false;
+                btnRun.Visible = false;
+#if TEST
+                btnErrode.Visible = true;
+                btnDilate.Visible = true;
+                btnCanny.Visible = true;
+                btnHoughLine.Visible = true;
+                btnReverse.Visible = true;
+                lbComport.Visible = true;
+                cbLightComport.Visible = true;
+                btnLightReConnect.Visible = true;
+                panel17.Visible = true;
+                btnRun.Visible = false;
+#endif
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+
+        }
+
+        public bool InitControl()
+        {
+            try
+            {
+                cbCameras.Items.Clear();
+                for (int i = 0; i < iData.CameraCount; i++)
+                {
+                    cbCameras.Items.Add("Camera" + (i + 1).ToString());
+                }
+
+                if (cbCameras.Items.Count > 0)
+                {
+                    cbCameras.SelectedIndex = 0;
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                return false;
+            }
+
+            return true;
+        }
+
+        private bool InitParameter()
+        {
+            try
+            {
+                lbAlgorithm.Text = iData.VisionType;
+
+                for (int i = 0; i < tcCalibrationTools.TabPages.Count; i++)
+                {
+                    if (tcCalibrationTools.TabPages[i].Text == iData.VisionType)
+                    {
+                        tcCalibrationTools.SelectedTab = tcCalibrationTools.TabPages[i];
+                    }
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                return false;
+            }
+
+            return true;
+        }
+
+        private void OnTrainCameraControl(object sender, EventArgs e)
+        {
+            try
+            {
+                string strIndex = ((Button)sender).Text;
+                int nSelectedCameraIndex = cbCameras.SelectedIndex;
+
+                switch (strIndex)
+                {
+                    case "Grab":
+                        if (cbLightModel.SelectedItem.ToString() == "PD70")
+                        {
+                            iData.LightControllerPd70.SetLightControl("PD70");
+                        }
+                        else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                        {
+                            if (!iData.LightControllerPd300.TurnLight)
+                            {
+                                if (m_nMode == (int)ParameterMode.Inspection)
+                                {
+                                    iData.LightControllerPd300.InspectionSetLightControl("PD300");
+                                }
+                                else if(m_nMode == (int)ParameterMode.Align)
+                                {
+                                    iData.LightControllerPd300.SetLightControl("PD300");
+                                }
+                                else if(m_nMode == (int)ParameterMode.Bottom)
+                                {
+                                    iData.LightControllerPd300.BottomeSetLightControl("PD300");                                
+                                }
+
+                            }
+
+                        }
+                        Thread.Sleep(500);
+
+                        iData.ListCamera[nSelectedCameraIndex].Grab();
+                        int nTimeOut = Environment.TickCount;
+                        while (true)
+                        {
+                            Thread.Sleep(10);
+
+                            if (iData.ListCamera[nSelectedCameraIndex].IsGrab)
+                            {
+                                iData.ListCamera[nSelectedCameraIndex].IsGrab = false;
+                                break;
+                            }
+                            else
+                            {
+                                iData.ListCamera[nSelectedCameraIndex].Grab();
+                            }
+
+                            if ((Environment.TickCount - nTimeOut) > 10000)
+                            {
+                                Logger.WriteLog(LOG.Inspection, "Grab Timeout");
+                                Logger.WriteLog(LOG.AbNormal, "Grab Timeout");
+
+                                return;
+                            }
+                        }
+
+                        Mat MatGrab = iData.ListCamera[nSelectedCameraIndex].MatLast;
+                        if (!IVision.IsMatEmpty(MatGrab))
+                        {
+                            MatGrab.CopyTo(m_MatTrainSource);
+                            pblMain.ImageIpl = MatGrab.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                            //MatRelease(MatGrab);
+                            //MatRelease(iData.ListCamera[nSelectedCameraIndex].MatLast);
+                        }
+
+                        if (cbLightModel.SelectedItem.ToString() == "PD70")
+                        {
+                            iData.LightControllerPd70.LightTurnOff();
+                        }
+                        else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                        {
+                            iData.LightControllerPd300.LightTurnOff();
+                        }
+
+                        break;
+
+                    case "Image Load":
+                        OpenFileDialog ofd = new OpenFileDialog();
+                        ofd.InitialDirectory = Application.StartupPath;
+                        ofd.Filter = "Images Files(*.jpg; *.jpeg; *.gif; *.bmp; *.png)|*.jpg;*.jpeg;*.gif;*.bmp;*.png";
+
+                        if (ofd.ShowDialog() == DialogResult.OK)
+                        {
+                            string strFilePath = ofd.FileName;
+
+                            m_MatTrainSource = Cv2.ImRead(strFilePath);
+                            pblMain.ImageIpl = m_MatTrainSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                        }
+
+                        break;
+                    case "Image Save":
+                        string sDirPath;
+                        sDirPath = Application.StartupPath + "\\Capture\\" + DateTime.Now.ToString("yyyyMMdd-HHmmssfff") + ".jpg";
+                        //pblMain.ImageIpl.SaveImage(sDirPath);
+                        pblMain.ImageIpl.Resize(new OpenCvSharp.Size(m_MatTrainSource.Width, m_MatTrainSource.Height));
+                        pblMain.ImageIpl.SaveImage(sDirPath);
+                        //Cv2.ImWrite(sDirPath, m_MatTrainSource);
+                        //Cv2.ImWrite(sDirPath, m_MatTrainImage);
+
+                        Logger.WriteLog(LOG.Normal, "Save Image ==> {0}", sDirPath);
+                        break;
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}   Action ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, strIndex);
+
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void OnGrabEnd(object sender, GrabEventArgs e)
+        {
+            if (this.InvokeRequired)
+            {
+                try
+                {
+                    this.Invoke(new MethodInvoker(() =>
+                    {
+                        OnGrabEnd(sender, e);
+                    }));
+                }
+                catch (Exception Desc)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                }
+            }
+            else
+            {
+                if (this.Visible == false) return;
+
+                try
+                {
+                    ICameraJai lCameraJai = sender as ICameraJai;
+
+                    int nIndex = lCameraJai.Index;
+
+                    if (nIndex < iData.ListCamera.Count)
+                    {
+                        if (cbCameras.SelectedIndex == lCameraJai.Index)
+                        {
+                            pblMain.ImageIpl = e.mat.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                            e.mat.Dispose();
+                        }
+                    }
+                }
+                catch (Exception Desc)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] Light Controller Init {0}/{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                }
+            }
+        }
+
+        private void btnRun_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string strIndex = lbAlgorithm.Text;
+                double dFontScale = (double)nbFontScale.Value;
+
+                Stopwatch sw = new Stopwatch();
+                Mat MatSource = new Mat();
+
+                List<OpenCvSharp.Point> ListContourPt = new List<OpenCvSharp.Point>();
+                List<Polygon> ListContourPolygon = new List<Polygon>();
+
+                switch (strIndex)
+                {
+                    case "Edge":
+                        string strDir = cbLineFinderDirection.Text;
+
+                        int nMaxIndex = 0;
+                        int nThreshold = trbThreshold.Value;
+
+                        Mat MatKernel = Cv2.GetStructuringElement(MorphShapes.Rect, new OpenCvSharp.Size(3, 3));
+
+                        Stopwatch swTakt = new Stopwatch();
+
+                        if (IVision.IsMatEmpty(m_MatTrainSource))
+                        {
+                            return;
+                        }
+
+                        swTakt.Restart();
+
+                        m_MatTrainSource.CopyTo(MatSource);
+
+                        int nContrast = (int)nbLineFinderContrast.Value;
+                        int nThickness = (int)nbLineFinderThickness.Value;
+
+                        switch (strDir)
+                        {
+                            case "Right To Left":
+                                ListContourPt = IVision.Edge(MatSource, nThreshold, nContrast, nThickness, IVision.Direction.RightToLeft);
+                                //List<Point2d> listFit = IVision.RansacLineFitting(ListContourPt, out double dA, out double dB);
+
+                                if (ListContourPt == null) return;
+
+                                int nMax = 0;
+
+                                for (int i = 0; i < ListContourPt.Count; i++)
+                                {
+                                    MatSource.Circle(ListContourPt[i], 2, Scalar.Aquamarine, 2);
+                                    if (nMax < ListContourPt[i].X)
+                                    {
+                                        nMax = ListContourPt[i].X;
+                                        nMaxIndex = i;
+                                    }
+                                }
+
+                                //for (int i = 0; i < listFit.Count; i++)
+                                //{
+                                //    OpenCvSharp.Point pt = new OpenCvSharp.Point((int)listFit[i].X, (int)listFit[i].Y);
+                                //    MatSource.Circle(pt, 2, Scalar.Red, 2);
+                                //}
+                                break;
+                            case "Left To Right":
+                                ListContourPt = IVision.Edge(MatSource, nThreshold, nContrast, nThickness, IVision.Direction.LeftToRight);
+
+                                if (ListContourPt == null) return;
+
+                                nMax = int.MaxValue;
+
+                                for (int i = 0; i < ListContourPt.Count; i++)
+                                {
+                                    MatSource.Circle(ListContourPt[i], 2, Scalar.Aquamarine, 2);
+                                    if (nMax > ListContourPt[i].X)
+                                    {
+                                        if (ListContourPt[i].X != 0)
+                                        {
+                                            nMax = ListContourPt[i].X;
+                                            nMaxIndex = i;
+                                        }
+                                    }
+                                }
+                                break;
+                            case "Top To Bottom":
+                                ListContourPt = IVision.Edge(MatSource, nThreshold, nContrast, nThickness, IVision.Direction.ToptoBottom);
+
+                                if (ListContourPt == null) return;
+
+                                nMax = int.MaxValue;
+
+                                for (int i = 0; i < ListContourPt.Count; i++)
+                                {
+                                    MatSource.Circle(ListContourPt[i], 2, Scalar.Aquamarine, 2);
+                                    if (nMax > ListContourPt[i].Y)
+                                    {
+                                        if (ListContourPt[i].X != 0)
+                                        {
+                                            nMax = ListContourPt[i].Y;
+                                            nMaxIndex = i;
+                                        }
+                                    }
+                                }
+                                break;
+                            case "Bottom To Top":
+                                ListContourPt = IVision.Edge(MatSource, nThreshold, nContrast, nThickness, IVision.Direction.BottomToTop);
+
+                                if (ListContourPt == null) return;
+
+                                nMax = 0;
+
+                                for (int i = 0; i < ListContourPt.Count; i++)
+                                {
+                                    MatSource.Circle(ListContourPt[i], 2, Scalar.Aquamarine, 2);
+                                    if (nMax < ListContourPt[i].Y)
+                                    {
+                                        nMax = ListContourPt[i].Y;
+                                        nMaxIndex = i;
+                                    }
+                                }
+                                break;
+                        }
+
+                        OpenCvSharp.Point ptCenter = new OpenCvSharp.Point();
+
+                        if (ListContourPt.Count > nMaxIndex)
+                        {
+                            ptCenter.X = ListContourPt[nMaxIndex].X;
+                            ptCenter.Y = ListContourPt[nMaxIndex].Y;
+
+                            MatSource.Circle(ptCenter, 20, Scalar.Red, 20);
+
+                            lbLineFindMaxPoint.Text = string.Format("{0}, {1}", ptCenter.X, ptCenter.Y);
+                            MatSource.CopyTo(m_MatDrawResult);
+                            pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                            lbTactTime.Text = swTakt.ElapsedMilliseconds.ToString(); ;
+                        }
+                        else
+                        {
+                            Logger.WriteLog(LOG.AbNormal, "Can't Find the Contour");
+                        }
+
+                        break;
+                    case "ContourCorner":
+                        int nThreshold1 = trbThreshold.Value;
+                        int nMinArea = (int)nbMinArea.Value;
+                        int nMaxArea = (int)nbMaxArea.Value;
+
+                        sw.Start();
+
+                        if (IVision.IsMatEmpty(m_MatTrainSource))
+                        {
+                            MessageBox.Show("Souce Image is Null");
+                            return;
+                        }
+
+                        m_MatTrainSource.CopyTo(MatSource);
+
+                        ListContourPolygon = IVision.CenterofGravityFromContour(MatSource, nThreshold1, nMinArea, nMaxArea);
+
+                        for (int i = 0; i < ListContourPolygon.Count; i++)
+                        {
+                            Polygon pg = ListContourPolygon[i];
+                            Rect rtBounding = pg.BoundingRect();
+
+                            MatSource.Rectangle(rtBounding, Scalar.Blue, (int)(5.0D * dFontScale));
+                            MatSource.Circle(pg.Center(), (int)(5.0D * dFontScale), Scalar.Lime, (int)(5.0D * dFontScale));
+
+
+                            for (int j = 0; j < pg.pts.Length; j++)
+                            {
+                                MatSource.Circle(pg.pts[j], (int)(5.0D * dFontScale), Scalar.Yellow, (int)(5.0D * dFontScale));
+                            }
+
+                            MatSource.PutText(IVision.AreaofRect(rtBounding.Size).ToString(), IVision.CenterofRect(rtBounding), HersheyFonts.Italic, dFontScale, Scalar.Aquamarine, (int)(5.0D * dFontScale));
+
+                            lbMatchingCenterPos.Text = pg.Center().ToString();
+                        }
+
+                        lbTactTime.Text = sw.ElapsedMilliseconds.ToString();
+                        sw.Stop();
+                        MatSource.CopyTo(m_MatDrawResult);
+                        pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                        break;
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}   Action ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, strIndex);
+                GC.Collect();
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private bool MatRelease(Mat MatDispose)
+        {
+            try
+            {
+                if (!MatDispose.IsDisposed)
+                {
+                    for (int i = 0; i < MatDispose.Total(); i++)
+                    {
+                        MatDispose.Release();
+                        if (MatDispose.IsDisposed)
+                        {
+                            break;
+                        }
+                    }
+                }
+                return true;
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+                return false;
+            }
+        }
+
+        private void trbLineFinderThreshold_Scroll(object sender, EventArgs e)
+        {
+            Mat MatSource = new Mat();
+            int nThreshold = trbThreshold.Value;
+            int nThresholdMax = trbThresholdMax.Value;
+            lbThreasholdValue.Text = nThreshold.ToString();
+
+            if (IVision.IsMatEmpty(m_MatTrainSource))
+            {
+                return;
+            }
+
+            m_MatTrainSource.CopyTo(MatSource);
+
+            Cv2.CvtColor(MatSource, MatSource, ColorConversionCodes.BGRA2GRAY);
+            Cv2.InRange(MatSource, new Scalar(nThreshold, nThreshold, nThreshold), new Scalar(nThresholdMax, nThresholdMax, nThresholdMax), MatSource);
+            pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+            //MatSource.CopyTo(m_MatTrainImage);
+
+            MatSource.Dispose();
+            GC.Collect();
+        }
+        private void btnMeasureGap_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int nIndex = cbCameras.SelectedIndex;
+                string strIndex = lbAlgorithm.Text;
+                double dFontScale = (double)nbFontScale.Value;
+                double dPixelPermm = 0.0;
+                if (m_nMode == (int)ParameterMode.Inspection)
+                {
+                    dPixelPermm = iData.Recipe.IspPixelPermm;
+                }
+                else
+                {
+                    dPixelPermm = iData.Recipe.PixelPermm;
+                }
+
+
+                Stopwatch sw = new Stopwatch();
+                Mat MatSource = new Mat();
+                Mat MatOriginal = new Mat();
+
+                int nRansac = 5;
+
+                List<double> ListGap = new List<double>();
+
+                string strDir = cbLineFinderDirection.Text;
+                int nThreshold = trbThreshold.Value;
+                int nEdgeColor = cbEdgeColor.SelectedIndex;
+
+                Stopwatch swTakt = new Stopwatch();
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                swTakt.Restart();       
+                m_MatTrainSource.CopyTo(MatOriginal);
+                m_MatTrainSource.CopyTo(MatSource);
+
+                int nContrast = (int)nbLineFinderContrast.Value;
+                int nThickness = (int)nbLineFinderThickness.Value;
+
+                int nDirection = (int)IVision.Direction.RightToLeft;
+
+                switch (strDir)
+                {
+                    case "Right To Left":
+                        nDirection = (int)IVision.Direction.RightToLeft;
+                        break;
+                    case "Left To Right":
+                        nDirection = (int)IVision.Direction.LeftToRight;
+                        break;
+                    case "Top To Bottom":
+                        nDirection = (int)IVision.Direction.ToptoBottom;
+                        break;
+                    case "Bottom To Top":
+                        nDirection = (int)IVision.Direction.BottomToTop;
+                        break;
+                }
+                ListPoint listpts = new ListPoint();
+                List<OpenCvSharp.Point> listInLine = new List<OpenCvSharp.Point>();
+                List<OpenCvSharp.Point> listOutLine = new List<OpenCvSharp.Point>();
+
+                if (m_nMode == (int)ParameterMode.Inspection)
+                {
+                    ListGap = IVision.Gap(iData.ListCamera[nIndex].IspROI, nThreshold, nContrast, nThickness, nEdgeColor, (IVision.Direction)nDirection, ref MatSource, ref listpts, out listInLine, out listOutLine);
+
+                    List<Point2d> listFitOut = IVision.RansacLineFitting(listOutLine, out double dAOut, out double dBOut);
+                    List<Point2d> listFitIn = IVision.RansacLineFitting(listInLine, out double dAIn, out double dBIn);
+
+                    if (listFitOut.Count > 1)
+                    {
+                        for (int i = 0; i < listFitOut.Count; i++)
+                        {
+                            OpenCvSharp.Point pt = new OpenCvSharp.Point((int)listFitOut[i].X + iData.ListCamera[nIndex].IspROI.X, (int)listFitOut[i].Y + iData.ListCamera[nIndex].IspROI.Y);
+                            MatOriginal.Circle(pt, 3, Scalar.Red, nRansac);
+                        }
+
+                        for (int i = 0; i < listFitIn.Count; i++)
+                        {
+                            OpenCvSharp.Point pt = new OpenCvSharp.Point((int)listFitIn[i].X + iData.ListCamera[nIndex].IspROI.X, (int)listFitIn[i].Y + iData.ListCamera[nIndex].IspROI.Y);
+                            MatOriginal.Circle(pt, 3, Scalar.Red, nRansac);
+                        }
+                    }
+                }
+                else
+                {
+                    //iData.ListCamera[nIndex].ROI = new Rect(iData.ListCamera[nIndex].ROI.X, iData.ListCamera[nIndex].ROI.Y - 100
+                    //   , iData.ListCamera[nIndex].ROI.Width + 200, iData.ListCamera[nIndex].ROI.Height + 200);
+
+                    ListGap = IVision.Gap(iData.ListCamera[nIndex].ROI, nThreshold, nContrast, nThickness, nEdgeColor, (IVision.Direction)nDirection, ref MatSource, ref listpts, out listInLine, out listOutLine);
+
+                    List<Point2d> listFitOut = IVision.RansacLineFitting(listOutLine, out double dAOut, out double dBOut);
+                    List<Point2d> listFitIn = IVision.RansacLineFitting(listInLine, out double dAIn, out double dBIn);
+
+                    if (listFitOut.Count > 1)
+                    {
+                        for (int i = 0; i < listFitOut.Count; i++)
+                        {
+                            OpenCvSharp.Point pt = new OpenCvSharp.Point((int)listFitOut[i].X + iData.ListCamera[nIndex].ROI.X, (int)listFitOut[i].Y + iData.ListCamera[nIndex].ROI.Y);
+                            MatOriginal.Circle(pt, 3, Scalar.Red, 5);
+                        }
+
+                        for (int i = 0; i < listFitIn.Count; i++)
+                        {
+                            OpenCvSharp.Point pt = new OpenCvSharp.Point((int)listFitIn[i].X + iData.ListCamera[nIndex].ROI.X, (int)listFitIn[i].Y + iData.ListCamera[nIndex].ROI.Y);
+                            MatOriginal.Circle(pt, 3, Scalar.Red, 5);
+                        }
+                    }
+                }
+
+
+
+
+                //ListGap = IVision.Gap(MatSource, nThreshold, nContrast, nThickness, nEdgeColor, (IVision.Direction)nDirection, ref MatOverlay, ref MatSource, out double dAngle);
+
+                double dGapLeft = 0.0;
+
+                if (iData.Recipe.UseFactor)
+                {
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        dGapLeft = ListGap.Average() * dPixelPermm * iData.ListCamera[nIndex].IspFactor;
+                    }
+                    else
+                    {
+                        dGapLeft = ListGap.Average() * dPixelPermm * iData.ListCamera[nIndex].Factor;
+                    }
+                }
+                else
+                {
+                    dGapLeft = ListGap.Average() * dPixelPermm;
+                }
+
+
+                //MatSource.PutText(string.Format("Distance : {0}", dGapLeft.ToString("F3")), new OpenCvSharp.Point((int)(iData.ListCamera[nIndex].ROI.Width * 0.03),
+                // (int)(iData.ListCamera[nIndex].ROI.Height * 0.2)), HersheyFonts.HersheyComplexSmall, 1.0D, Scalar.Blue, 2);
+
+                //if (ListGap == null)
+                //{
+                //    for (int i = 0; i < 3; i++)
+                //    {
+                //        ListGap = IVision.Gap(MatSource, nThreshold, nContrast, nThickness, nEdgeColor, (IVision.Direction)nDirection, ref MatSource, out double dAngleRt);
+
+                //        if (ListGap != null)
+                //        {
+                //            //dAngle = dAngleRt;
+                //            break;
+                //        }
+                //    }
+                //}
+
+                if (ListGap != null)
+                {
+                    if (ListGap.Count > 0)
+                    {
+                        iData.Notice = string.Format("Gap Avg : {0} Count : {1}", ListGap.Average(), ListGap.Count);
+                    }
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        MatOriginal.Rectangle(iData.ListCamera[nIndex].IspROI, Scalar.Blue, 10);
+                    }
+                    else
+                    {
+                        MatOriginal.Rectangle(iData.ListCamera[nIndex].ROI, Scalar.Blue, 10);
+                    }
+
+                    //MatOriginal.PutText("Angle : " + dAngle.ToString("F4"), new OpenCvSharp.Point((int)MatOriginal.Width * 0.1, MatOriginal.Height * 0.5), HersheyFonts.HersheyDuplex, 5.0D, Scalar.Blue, 5);
+                    MatOriginal.PutText(string.Format("Distance : {0}", dGapLeft.ToString("F3")), new OpenCvSharp.Point((int)(MatOriginal.Width * 0.2), (int)MatOriginal.Height) * 0.2, HersheyFonts.HersheyComplex, 5.0D, Scalar.Blue, 5);
+
+                    pblMain.ImageIpl = MatOriginal.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+                    MatRelease(MatSource);
+                    MatRelease(MatOriginal);
+
+                    lbGapDistance.Text = string.Format("Distance : {0}", dGapLeft.ToString("F5"));
+                    lbTactTime.Text = swTakt.ElapsedMilliseconds.ToString();
+                    //lbAngle.Text = dAngle.ToString("F4");
+                    Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}   Action ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, strIndex);
+                }
+                else
+                {
+                    MatRelease(MatSource);
+                    MatRelease(MatOriginal);
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> Can't Find the Gap", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+                }
+
+                GC.Collect();
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+
+        private void pblMain_DoubleClick(object sender, EventArgs e)
+        {
+            if (!IVision.IsMatEmpty(m_MatDrawResult))
+            {
+                Cv2.ImShow("View", m_MatDrawResult);
+            }
+            else
+            {
+                if (!IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    Cv2.ImShow("View", m_MatTrainSource);
+                }
+            }
+        }
+
+        private void btnCameraConfigApply_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                WriteLightValue();
+
+                int nIndex = cbCameras.SelectedIndex;
+                double dExposure = 0.0D;
+                double dGain = 0.0D;
+
+                if (tbExposure.Text != "")
+                {
+                    dExposure = double.Parse(tbExposure.Text);
+
+                    if (dExposure > 43000)
+                    {
+                        MessageBox.Show("Exposure Max Value is 43000");
+                        return;
+                    }
+                }
+
+                if (tbGain.Text != "")
+                {
+                    dGain = double.Parse(tbGain.Text);
+
+                    if (dGain > 16.0)
+                    {
+                        MessageBox.Show("Gain Max Value is 16");
+                        return;
+                    }
+                }
+
+                if (nIndex < iData.ListCamera.Count)
+                {
+                    iData.ListCamera[nIndex].IP = tbCameraIP.Text;
+                    iData.ListCamera[nIndex].Rotate = cbCameraRotate.Text;
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        iData.ListCamera[nIndex].IspExposureTime = double.Parse(tbExposure.Text);
+                        iData.ListCamera[nIndex].IspGain = double.Parse(tbGain.Text);
+                        iData.ListCamera[nIndex].IspLamiThreshold = trbThreshold.Value;
+                        iData.ListCamera[nIndex].IspLamiThickness = (int)nbLineFinderThickness.Value;
+                        iData.ListCamera[nIndex].IspLamiEdgeColor = cbEdgeColor.SelectedIndex;
+                        iData.ListCamera[nIndex].IspContrast = (int)nbLineFinderContrast.Value;
+                        iData.ListCamera[nIndex].UpdateInspectionParameter();
+                    }
+                    else if(m_nMode == (int)ParameterMode.Align)
+                    {
+                        iData.ListCamera[nIndex].ExposureTime = double.Parse(tbExposure.Text);
+                        iData.ListCamera[nIndex].Gain = double.Parse(tbGain.Text);
+                        iData.ListCamera[nIndex].Threshold = trbThreshold.Value;
+                        iData.ListCamera[nIndex].Thickness = (int)nbLineFinderThickness.Value;
+                        iData.ListCamera[nIndex].EdgeColor = cbEdgeColor.SelectedIndex;
+                        iData.ListCamera[nIndex].Contrast = (int)nbLineFinderContrast.Value;
+                        iData.ListCamera[nIndex].UpdateParameter();
+                    }
+                    else if(m_nMode == (int)ParameterMode.Bottom)
+                    {
+                        iData.ListCamera[nIndex].BottomExposureTime = double.Parse(tbExposure.Text);
+                        iData.ListCamera[nIndex].BottomGain = double.Parse(tbGain.Text);
+                        iData.ListCamera[nIndex].BottomLamiThreshold = trbThreshold.Value;
+                        iData.ListCamera[nIndex].BottomLamiThickness = (int)nbLineFinderThickness.Value;
+                        iData.ListCamera[nIndex].BottomLamiEdgeColor = cbEdgeColor.SelectedIndex;
+                        iData.ListCamera[nIndex].BottomContrast = (int)nbLineFinderContrast.Value;
+                        iData.ListCamera[nIndex].UpdateBottomParameter();
+                    }
+
+                    Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+                }
+
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnCameraConfigSave_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                for (int i = 0; i < iData.ListCamera.Count; i++)
+                {
+                    iData.ListCamera[i].WriteInitFile(iData.Recipe.Name);
+                }
+
+                FormInit FrmInit = new FormInit("Reconnect the Camera");
+                FrmInit.TopMost = true;
+                FrmInit.StartPosition = FormStartPosition.CenterScreen;
+                FrmInit.Show();
+
+                FrmInit.Refresh();
+                System.Threading.Thread.Sleep(1);
+
+                //for (int i = 0; i < iData.ListCamera.Count; i++)
+                //{
+                //    iData.ListCamera[i].Disconnect();
+                //    Thread.Sleep(10);
+                //    iData.ListCamera[i].Init(i, "", iData.Recipe.Name);
+                //}
+
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+
+                    if (iData.LightControllerPd70.IsOpen)
+                    {
+                        iData.LightControllerPd70.WriteInitFile();
+                        iData.LightControllerPd70.ReadInitFile();
+
+                        // 2020.06.07 Noah Choi 연결되어 있다면 조명을 끄고, close를 합니다.
+                        iData.LightControllerPd70.LightTurnOff();
+                        iData.LightControllerPd70.Close();
+                        Thread.Sleep(300);
+                        iData.LightControllerPd70.Init("PD70");
+                    }
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    if (iData.LightControllerPd300.IsOpen)
+                    {
+                        iData.LightControllerPd300.WriteInitFile();
+                        iData.LightControllerPd300.ReadInitFile();
+
+                        // 2020.06.07 Noah Choi 연결되어 있다면 조명을 끄고, close를 합니다.
+                        iData.LightControllerPd300.LightTurnOff();
+                        iData.LightControllerPd300.Close();
+                        Thread.Sleep(300);
+                        iData.LightControllerPd300.Init("PD300");
+                    }
+                }
+                FrmInit.Close();
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void cbCameras_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                iData.LightControllerPd70.ReadInitFile();
+                iData.LightControllerPd300.ReadInitFile();
+
+                int nIndex = ((ComboBox)sender).SelectedIndex;
+                int nDirection = 0;
+                switch (nIndex)
+                {
+                    case ALIGN_LAMI_CAMERA_LEFT:
+                        nDirection = (int)IVision.Direction.LeftToRight;
+                        break;
+                    case ALIGN_LAMI_CAMERA_RIGHT:
+                        nDirection = (int)IVision.Direction.RightToLeft;
+                        break;
+                    case ALIGN_LAMI_CAMERA_TOPLEFT:
+                        nDirection = (int)IVision.Direction.ToptoBottom;
+                        break;
+                    case ALIGN_LAMI_CAMERA_TOPRIGHT:
+                        nDirection = (int)IVision.Direction.ToptoBottom;
+                        break;
+                    case ALIGN_LAMI_CAMERA_BOTTOMLEFT:
+                        nDirection = (int)IVision.Direction.BottomToTop;
+                        break;
+                    case ALIGN_LAMI_CAMERA_BOTTOMRIGHT:
+                        nDirection = (int)IVision.Direction.BottomToTop;
+                        break;
+                }
+                cbLineFinderDirection.SelectedIndex = nDirection;
+
+                if (nIndex < iData.ListCamera.Count)
+                {
+                    tbCameraIP.Text = iData.ListCamera[nIndex].IP;
+                    cbCameraRotate.Text = iData.ListCamera[nIndex].Rotate;
+
+                    // 2020.06.22 Noah Choi 카메라 인덱스변경시 Light 파라미터도 변경토록 수정
+                    cbLightModel.SelectedItem = iData.ListCamera[nIndex].LightModel.ToString();
+                    cbLightIndex.SelectedIndex = nIndex;
+
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        tbExposure.Text = iData.ListCamera[nIndex].IspExposureTime.ToString();
+                        tbGain.Text = iData.ListCamera[nIndex].IspGain.ToString();
+                        trbThreshold.Value = iData.ListCamera[nIndex].IspLamiThreshold;
+                        nbLineFinderThickness.Value = iData.ListCamera[nIndex].IspLamiThickness;
+                        cbEdgeColor.SelectedIndex = iData.ListCamera[nIndex].IspLamiEdgeColor;
+                        nbLineFinderContrast.Value = iData.ListCamera[nIndex].IspContrast;
+                        switch (nIndex)
+                        {
+                            case 0:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel1Value;
+                                break;
+                            case 1:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel2Value;
+                                break;
+                            case 2:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel3Value;
+                                break;
+                            case 3:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel4Value;
+                                break;
+                            case 4:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel5Value;
+                                break;
+                            case 5:
+                                trbLight.Value = iData.LightControllerPd300.InpChannel6Value;
+                                break;
+                            case 6:
+                                trbLight.Value = iData.LightControllerPd70.Channel1Value;
+                                break;
+                            case 7:
+                                trbLight.Value = iData.LightControllerPd70.Channel2Value;
+                                break;
+                        }
+                    }
+                    else if(m_nMode == (int)ParameterMode.Align)
+                    {
+                        tbExposure.Text = iData.ListCamera[nIndex].ExposureTime.ToString();
+                        tbGain.Text = iData.ListCamera[nIndex].Gain.ToString();
+                        trbThreshold.Value = iData.ListCamera[nIndex].Threshold;
+                        nbLineFinderThickness.Value = iData.ListCamera[nIndex].Thickness;
+                        cbEdgeColor.SelectedIndex = iData.ListCamera[nIndex].EdgeColor;
+                        nbLineFinderContrast.Value = iData.ListCamera[nIndex].Contrast;
+                        switch (nIndex)
+                        {
+                            case 0:
+                                trbLight.Value = iData.LightControllerPd300.Channel1Value;
+                                break;
+                            case 1:
+                                trbLight.Value = iData.LightControllerPd300.Channel2Value;
+                                break;
+                            case 2:
+                                trbLight.Value = iData.LightControllerPd300.Channel3Value;
+                                break;
+                            case 3:
+                                trbLight.Value = iData.LightControllerPd300.Channel4Value;
+                                break;
+                            case 4:
+                                trbLight.Value = iData.LightControllerPd300.Channel5Value;
+                                break;
+                            case 5:
+                                trbLight.Value = iData.LightControllerPd300.Channel6Value;
+                                break;
+                            case 6:
+                                trbLight.Value = iData.LightControllerPd70.Channel1Value;
+                                break;
+                            case 7:
+                                trbLight.Value = iData.LightControllerPd70.Channel2Value;
+                                break;
+                        }
+                    }
+                    else if(m_nMode == (int)ParameterMode.Bottom)
+                    {
+                        tbExposure.Text = iData.ListCamera[nIndex].BottomExposureTime.ToString();
+                        tbGain.Text = iData.ListCamera[nIndex].BottomGain.ToString();
+                        trbThreshold.Value = iData.ListCamera[nIndex].BottomLamiThreshold;
+                        nbLineFinderThickness.Value = iData.ListCamera[nIndex].BottomLamiThickness;
+                        cbEdgeColor.SelectedIndex = iData.ListCamera[nIndex].BottomLamiEdgeColor;
+                        nbLineFinderContrast.Value = iData.ListCamera[nIndex].BottomContrast;
+                        switch (nIndex)
+                        {
+                            case 0:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel1Value;
+                                break;
+                            case 1:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel2Value;
+                                break;
+                            case 2:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel3Value;
+                                break;
+                            case 3:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel4Value;
+                                break;
+                            case 4:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel5Value;
+                                break;
+                            case 5:
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel6Value;
+                                break;
+                            case 6:
+                                trbLight.Value = iData.LightControllerPd70.BottomChannel1Value;
+                                break;
+                            case 7:
+                                trbLight.Value = iData.LightControllerPd70.BottomChannel2Value;
+                                break;
+                        }
+                    }
+
+                    lbLightValue.Text = trbLight.Value.ToString();
+                    lbThreasholdValue.Text = trbThreshold.Value.ToString();
+
+                }
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+        private void WriteLightValue()
+        {
+            try
+            {
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+                    switch (cbLightIndex.SelectedIndex.ToString())
+                    {
+                        case "6":
+                            iData.LightControllerPd70.Channel1Value = trbLight.Value;
+                            break;
+                        case "7":
+                            iData.LightControllerPd70.Channel2Value = trbLight.Value;
+                            break;
+                        case "8":
+                            iData.LightControllerPd70.Channel3Value = trbLight.Value;
+                            break;
+                        case "9":
+                            iData.LightControllerPd70.Channel4Value = trbLight.Value;
+                            break;
+                    }
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                iData.LightControllerPd300.InpChannel1Value = trbLight.Value;
+                                break;
+                            case "1":
+                                iData.LightControllerPd300.InpChannel2Value = trbLight.Value;
+                                break;
+                            case "2":
+                                iData.LightControllerPd300.InpChannel3Value = trbLight.Value;
+                                break;
+                            case "3":
+                                iData.LightControllerPd300.InpChannel4Value = trbLight.Value;
+                                break;
+                            case "4":
+                                iData.LightControllerPd300.InpChannel5Value = trbLight.Value;
+                                break;
+                            case "5":
+                                iData.LightControllerPd300.InpChannel6Value = trbLight.Value;
+                                break;
+                            case "6":
+                                iData.LightControllerPd300.InpChannel7Value = trbLight.Value;
+                                break;
+                            case "7":
+                                iData.LightControllerPd300.InpChannel8Value = trbLight.Value;
+                                break;
+                        }
+                    }
+                    else if(m_nMode == (int)ParameterMode.Align)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                iData.LightControllerPd300.Channel1Value = trbLight.Value;
+                                break;
+                            case "1":
+                                iData.LightControllerPd300.Channel2Value = trbLight.Value;
+                                break;
+                            case "2":
+                                iData.LightControllerPd300.Channel3Value = trbLight.Value;
+                                break;
+                            case "3":
+                                iData.LightControllerPd300.Channel4Value = trbLight.Value;
+                                break;
+                            case "4":
+                                iData.LightControllerPd300.Channel5Value = trbLight.Value;
+                                break;
+                            case "5":
+                                iData.LightControllerPd300.Channel6Value = trbLight.Value;
+                                break;
+                            case "6":
+                                iData.LightControllerPd300.Channel7Value = trbLight.Value;
+                                break;
+                            case "7":
+                                iData.LightControllerPd300.Channel8Value = trbLight.Value;
+                                break;
+                        }
+
+                    }
+                    else if(m_nMode == (int)ParameterMode.Bottom)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                iData.LightControllerPd300.BottomChannel1Value = trbLight.Value;
+                                break;
+                            case "1":
+                                iData.LightControllerPd300.BottomChannel2Value = trbLight.Value;
+                                break;
+                            case "2":
+                                iData.LightControllerPd300.BottomChannel3Value = trbLight.Value;
+                                break;
+                            case "3":
+                                iData.LightControllerPd300.BottomChannel4Value = trbLight.Value;
+                                break;
+                            case "4":
+                                iData.LightControllerPd300.BottomChannel5Value = trbLight.Value;
+                                break;
+                            case "5":
+                                iData.LightControllerPd300.BottomChannel6Value = trbLight.Value;
+                                break;
+                            case "6":
+                                iData.LightControllerPd300.BottomChannel7Value = trbLight.Value;
+                                break;
+                            case "7":
+                                iData.LightControllerPd300.BottomChannel8Value = trbLight.Value;
+                                break;
+                        }
+                    }
+
+                }
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+                    iData.LightControllerPd70.SetLightControl(cbLightModel.SelectedItem.ToString());
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        iData.LightControllerPd300.InspectionSetLightControl(cbLightModel.SelectedItem.ToString());
+                    }
+                    else if(m_nMode == (int)ParameterMode.Align)
+                    {
+                        iData.LightControllerPd300.SetLightControl(cbLightModel.SelectedItem.ToString());
+                    }
+                    else if(m_nMode == (int)ParameterMode.Bottom)
+                    {
+                        iData.LightControllerPd300.BottomeSetLightControl(cbLightModel.SelectedItem.ToString());
+                    }
+                }
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnErrode_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Mat MatSource = new Mat();
+                Mat MatKernel = Cv2.GetStructuringElement(MorphShapes.Rect, new OpenCvSharp.Size(3, 3));
+                int nThreshold = trbThreshold.Value;
+                int nThresholdMax = trbThresholdMax.Value;
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                m_MatTrainSource.CopyTo(MatSource);
+                Cv2.CvtColor(MatSource, MatSource, ColorConversionCodes.BGRA2GRAY);
+                Cv2.Threshold(MatSource, MatSource, nThreshold, 255, ThresholdTypes.Binary);
+                Cv2.MorphologyEx(MatSource, MatSource, MorphTypes.Erode, MatKernel, new OpenCvSharp.Point(-1, -1), 1);
+                pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+                MatSource.Dispose();
+                GC.Collect();
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+
+        }
+
+        private void btnDilate_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Mat MatSource = new Mat();
+                Mat MatKernel = Cv2.GetStructuringElement(MorphShapes.Rect, new OpenCvSharp.Size(3, 3));
+                int nThreshold = trbThreshold.Value;
+                int nThresholdMax = trbThresholdMax.Value;
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                m_MatTrainSource.CopyTo(MatSource);
+                Cv2.CvtColor(MatSource, MatSource, ColorConversionCodes.BGRA2GRAY);
+                Cv2.Threshold(MatSource, MatSource, nThreshold, 255, ThresholdTypes.Binary);
+                Cv2.MorphologyEx(MatSource, MatSource, MorphTypes.Dilate, MatKernel, new OpenCvSharp.Point(-1, -1), 1);
+                pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+                MatSource.Dispose();
+                GC.Collect();
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnCanny_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Mat MatSource = new Mat();
+                Mat MatKernel = Cv2.GetStructuringElement(MorphShapes.Rect, new OpenCvSharp.Size(3, 3));
+                int nThreshold = trbThreshold.Value;
+                int nThresholdMax = trbThresholdMax.Value;
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                m_MatTrainSource.CopyTo(MatSource);
+                Cv2.CvtColor(MatSource, MatSource, ColorConversionCodes.BGRA2GRAY);
+                Cv2.Threshold(MatSource, MatSource, nThreshold, 255, ThresholdTypes.Binary);
+                Cv2.Canny(MatSource, MatSource, nThreshold, nThresholdMax);
+                pblMain.ImageIpl = MatSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+                MatSource.Dispose();
+                GC.Collect();
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+
+        }
+
+        private void btnReverse_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Mat MatSource = new Mat();
+                Mat MatDraw = new Mat();
+                Mat MatKernel = Cv2.GetStructuringElement(MorphShapes.Rect, new OpenCvSharp.Size(3, 3));
+                int nThreshold = trbThreshold.Value;
+                int nThresholdMax = trbThresholdMax.Value;
+
+                HierarchyIndex[] hierarchy;
+
+                OpenCvSharp.Point testpoint = new OpenCvSharp.Point();
+
+                OpenCvSharp.Size cvsize;
+                OpenCvSharp.Point[][] contours;
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                m_MatTrainSource.CopyTo(MatSource);
+                m_MatTrainSource.CopyTo(MatDraw);
+
+                Cv2.CvtColor(MatSource, MatSource, ColorConversionCodes.BGRA2GRAY);
+                Cv2.Threshold(MatSource, MatSource, nThreshold, 255, ThresholdTypes.Binary);
+                Cv2.BitwiseNot(MatSource, MatSource);
+
+                Cv2.FindContours(MatSource, out contours, out hierarchy, RetrievalModes.Tree, ContourApproximationModes.ApproxSimple, null);
+
+                for (int i = 0; i < contours.Length; i++)
+                {
+                    double peri = Cv2.ArcLength(contours[i], true);
+
+                    OpenCvSharp.Point[] pp = Cv2.ApproxPolyDP(contours[i], 0.02 * peri, true);
+
+                    RotatedRect rrect = Cv2.MinAreaRect(pp);
+                    double areaRatio = System.Math.Abs(Cv2.ContourArea(contours[i], false)) / (rrect.Size.Width * rrect.Size.Height);
+
+                    Rect rt = Cv2.BoundingRect(pp);
+
+                    if (IVision.AreaofRect(rt.Size) >= 500000)
+                    {
+                        Cv2.DrawContours(MatDraw, contours, i, Scalar.Yellow, 2, LineTypes.AntiAlias, hierarchy, 100, testpoint);
+                        Cv2.Rectangle(MatDraw, rt, Scalar.Red, 5);
+
+                        Cv2.Rectangle(MatDraw, rt, Scalar.Red, 5);
+                    }
+                }
+
+                pblMain.ImageIpl = MatDraw.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+
+                GC.Collect();
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+
+        }
+
+        private void btnHoughLine_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int nThreshold = trbThreshold.Value;
+
+                string strDir = cbLineFinderDirection.Text;
+                Mat MatFilter = new Mat();
+                Mat MatDraw = new Mat();
+                switch (strDir)
+                {
+                    case "Right To Left":
+                        MatFilter = IVision.DeleteNonFocusingBackground(m_MatTrainSource, IVision.Direction.RightToLeft, nThreshold, out MatDraw);
+                        break;
+                    case "Left To Right":
+                        MatFilter = IVision.DeleteNonFocusingBackground(m_MatTrainSource, IVision.Direction.LeftToRight, nThreshold, out MatDraw);
+                        break;
+                    case "Top To Bottom":
+                        MatFilter = IVision.DeleteNonFocusingBackground(m_MatTrainSource, IVision.Direction.ToptoBottom, nThreshold, out MatDraw);
+                        break;
+                    case "Bottom To Top":
+                        MatFilter = IVision.DeleteNonFocusingBackground(m_MatTrainSource, IVision.Direction.BottomToTop, nThreshold, out MatDraw);
+                        break;
+                }
+
+                MatFilter.CopyTo(m_MatTrainSource);
+                Cv2.ImShow("Result", m_MatTrainSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height)));
+                pblMain.ImageIpl = MatDraw.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void cbLightModel_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+                    iData.LightControllerPd70.ModelName = "PD70";
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    iData.LightControllerPd300.ModelName = "PD300";
+                }
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void trbLight_ValueChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                WriteLightValue();
+                lbLightValue.Text = trbLight.Value.ToString();
+
+                //Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnLamiMasterAngleApply_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string strLamiMasterAngle = lbAngle.Text;
+
+                if (strLamiMasterAngle == "")
+                {
+                    MessageBox.Show("Angle is empty");
+                }
+                else
+                {
+                    iData.Recipe.LamiMasterAngle = double.Parse(strLamiMasterAngle);
+                    iData.Recipe.WriteInitFile();
+                }
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnSetROI_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (m_MatTrainSource.Width == 0 || m_MatTrainSource.Height == 0)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] Read Input {0}==>{1} Err Code ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, "Not Train Image");
+                    return;
+                }
+
+                int nIndex = cbCameras.SelectedIndex;
+
+                FormSetROI FrmSetROI = new FormSetROI(m_MatTrainSource, iData.ListCamera[nIndex]);
+                FrmSetROI.iData = iData;
+                FrmSetROI.Location = new System.Drawing.Point((this.Width - FrmSetROI.Width) / 2, (this.Height - FrmSetROI.Height) / 2);
+                FrmSetROI.ShowDialog();
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnViewROI_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (m_MatTrainSource.Width == 0 || m_MatTrainSource.Height == 0)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] Read Input {0}==>{1} Err Code ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, "Not Train Image");
+                    return;
+                }
+
+                m_bViewROI = !m_bViewROI;
+
+                if (m_bViewROI)
+                {
+                    Mat MatViewROI = new Mat();
+                    m_MatTrainSource.CopyTo(MatViewROI);
+
+                    int nIndex = cbCameras.SelectedIndex;
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        MatViewROI.Rectangle(iData.ListCamera[nIndex].IspROI, Scalar.Aquamarine, 4);
+                    }
+                    else
+                    {
+                        MatViewROI.Rectangle(iData.ListCamera[nIndex].ROI, Scalar.Aquamarine, 4);
+                    }
+
+                    pblMain.ImageIpl = MatViewROI.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                    MatViewROI.Dispose();
+                }
+                else
+                {
+                    pblMain.ImageIpl = m_MatTrainSource.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnCalcFactor_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int nIndex = cbCameras.SelectedIndex;
+
+                if (m_MatTrainSource.Width == 0 || m_MatTrainSource.Height == 0)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[FAILED] Read Input {0}==>{1} Err Code ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, "Not Train Image");
+                    return;
+                }
+                int nThreshold = trbThreshold.Value;
+                int nThickness = (int)nbLineFinderThickness.Value;
+                int nEdgeColor = cbEdgeColor.SelectedIndex;
+
+                FormCaclulator FrmCaclulator = new FormCaclulator(m_MatTrainSource, iData.ListCamera[nIndex], iData, nIndex, nThreshold, nThickness, nEdgeColor);
+                //FrmCaclulator.iData = iData;
+                FrmCaclulator.Location = new System.Drawing.Point((this.Width - FrmCaclulator.Width) / 2, (this.Height - FrmCaclulator.Height) / 2);
+                FrmCaclulator.FormBorderStyle = FormBorderStyle.None;
+                FrmCaclulator.WindowState = FormWindowState.Maximized;
+                FrmCaclulator.ShowDialog();
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnLightReConnect_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+                    // 2020.06.07 Noah Choi 콤보박스에 선택된 COM를 가져옵니다.
+                    iData.LightControllerPd70.PD70PortName = cbLightComport.SelectedItem.ToString();
+                    // 2020.06.07 Noah Choi 가져온 COM을 Config파일에 씁니다.
+                    iData.LightControllerPd70.WriteInitFile();
+
+                    if (iData.LightControllerPd70.IsOpen)
+                    {
+                        // 2020.06.07 Noah Choi 연결되어 있다면 조명을 끄고, close를 합니다.
+                        iData.LightControllerPd70.LightTurnOff();
+                        iData.LightControllerPd70.Close();
+                        Thread.Sleep(10);
+
+                        iData.LightControllerPd70.Init("PD70");
+                    }
+                    else
+                    {
+                        iData.LightControllerPd70.Init("PD70");
+                    }
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    // 2020.06.07 Noah Choi 콤보박스에 선택된 COM를 가져옵니다.
+                    iData.LightControllerPd300.PD300PortName = cbLightComport.SelectedItem.ToString();
+                    // 2020.06.07 Noah Choi 가져온 COM을 Config파일에 씁니다.
+                    iData.LightControllerPd300.WriteInitFile();
+
+                    if (iData.LightControllerPd300.IsOpen)
+                    {
+                        // 2020.06.07 Noah Choi 연결되어 있다면 조명을 끄고, close를 합니다.
+                        iData.LightControllerPd300.LightTurnOff();
+                        iData.LightControllerPd300.Close();
+                        Thread.Sleep(10);
+
+                        iData.LightControllerPd300.Init("PD300");
+                    }
+                    else
+                    {
+                        iData.LightControllerPd300.Init("PD300");
+                    }
+                }
+
+                Logger.WriteLog(LOG.Normal, "[OK] {0}==>{1}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name);
+            }
+            catch (Exception Desc)
+            {
+                Logger.WriteLog(LOG.AbNormal, "[FAILED] {0}==>{1}   Execption ==> {2}", MethodBase.GetCurrentMethod().ReflectedType.Name, MethodBase.GetCurrentMethod().Name, Desc.Message);
+            }
+        }
+
+        private void btnMode_MouseClick(object sender, MouseEventArgs e)
+        {
+            string strModeIndex = (sender as Button).Text;
+            switch (strModeIndex)
+            {
+                case "Inspection Parameter":
+                    m_nMode = (int)ParameterMode.Inspection;
+                    iData.Parameter = m_nMode;
+                    btnModeInspection.BackColor = Color.Aquamarine;                    
+                    btnModeInspection.ForeColor = Color.Black;
+                    btnModeAlign.BackColor = Color.Black;
+                    btnModeAlign.ForeColor = Color.White;
+                    btnModeBottom.BackColor = Color.Black;
+                    btnModeBottom.ForeColor = Color.White;
+
+                    iData.ListCamera[cbCameras.SelectedIndex].UpdateInspectionParameter();
+                    iData.UseInpParameterMode = true;
+                    iData.WriteInitFile();
+                    cbCameras_SelectedIndexChanged(cbCameras, null);
+                    break;
+                case "Align Parameter":
+                    m_nMode = (int)ParameterMode.Align;
+                    iData.Parameter = m_nMode;
+                    btnModeAlign.BackColor = Color.Aquamarine;
+                    btnModeAlign.ForeColor = Color.Black;
+                    btnModeInspection.BackColor = Color.Black;                    
+                    btnModeInspection.ForeColor = Color.White;
+                    btnModeBottom.BackColor = Color.Black;
+                    btnModeBottom.ForeColor = Color.White;
+
+                    iData.UseInpParameterMode = false;
+                    iData.ListCamera[cbCameras.SelectedIndex].UpdateParameter();
+                    iData.WriteInitFile();
+                    cbCameras_SelectedIndexChanged(cbCameras, null);
+                    break;
+                case "Bottom Parameter":
+                    m_nMode = (int)ParameterMode.Bottom;
+                    iData.Parameter = m_nMode;
+                    btnModeBottom.BackColor = Color.Aquamarine;
+                    btnModeBottom.ForeColor = Color.Black;
+                    btnModeInspection.BackColor = Color.Black;
+                    btnModeInspection.ForeColor = Color.White;
+                    btnModeAlign.BackColor = Color.Black;
+                    btnModeAlign.ForeColor = Color.White;
+                    iData.UseInpParameterMode = false;
+
+                    iData.ListCamera[cbCameras.SelectedIndex].UpdateBottomParameter();
+                    iData.WriteInitFile();
+                    cbCameras_SelectedIndexChanged(cbCameras, null);
+                    break;
+            }
+        }
+
+        private void btnModeInspection_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnModeAlign_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFactorUse_MouseDown(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void btnFactorUse_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFactorUse_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (iData.Recipe.UseFactor)
+            {
+                btnFactorUse.BackColor = Color.Black;
+                btnFactorUse.ForeColor = Color.White;
+
+                iData.Recipe.UseFactor = false;
+                iData.Recipe.WriteInitFile();
+            }
+            else
+            {
+                btnFactorUse.BackColor = Color.Aquamarine;
+                btnFactorUse.ForeColor = Color.Black;
+
+                iData.Recipe.UseFactor = true;
+                iData.Recipe.WriteInitFile();
+            }
+        }
+
+        private void btnOpenImagePath_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string strOpenFolderImage = Application.StartupPath + "\\" + "Image";
+
+                Process.Start("explorer.exe", strOpenFolderImage);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("treeView1_BeforeExpand : " + ex.Message);
+            }
+        }
+
+        private void btnOpenLogFolder_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string strOpenFolderLog = Application.StartupPath + "\\" + "Log";
+
+                Process.Start("explorer.exe", strOpenFolderLog);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("treeView1_BeforeExpand : " + ex.Message);
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Mat matRotate = new Mat();
+                Mat matRotate2 = new Mat();
+                Mat matMatrix = new Mat();
+                Mat matResult = new Mat();
+                m_MatTrainSource.CopyTo(matRotate);
+                m_MatTrainSource.CopyTo(matRotate2);
+
+                int dWidth = m_MatTrainSource.Width;
+                int dHeigh = m_MatTrainSource.Height;
+                Point2f point2F = new Point2f((float)(m_MatTrainSource.Width / 2.0), (float)(m_MatTrainSource.Height / 2.0));
+                OpenCvSharp.Size size = new OpenCvSharp.Size();
+                size.Width = dWidth / 2;
+                size.Height = dHeigh / 2;
+                matMatrix = Cv2.GetRotationMatrix2D(point2F, 120, 1.0);
+
+                Cv2.WarpAffine(matRotate, matRotate, matMatrix, size);
+                Cv2.ImShow("test", matRotate);
+
+                ////Point2f point2F2 = new Point2f(matRotate.Width / 2, matRotate.Height / 2);
+                //matMatrix = Cv2.GetRotationMatrix2D(point2F, 90, 1);
+                //OpenCvSharp.Size size = new OpenCvSharp.Size();
+                //size.Width = matRotate.Width / 2;
+                //size.Height = matRotate.Height / 2;
+                //Cv2.WarpAffine(m_MatTrainSource, matMatrix, matRotate2, size);
+                //Cv2.ImShow("test", matRotate2);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("treeView1_BeforeExpand : " + ex.Message);
+            }
+        }
+
+        private void btnModeBottom_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEdgeRun_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Logger.WriteLog(LOG.Inspection, "Start Measuring the Left");
+                string strDir = cbLineFinderDirection.Text;
+                int nThreshold = trbThreshold.Value;
+                int nEdgeColor = cbEdgeColor.SelectedIndex;
+                int nContrast = (int)nbLineFinderContrast.Value;
+                int nThickness = (int)nbLineFinderThickness.Value;
+                int nIndex = cbCameras.SelectedIndex;
+                int nRansac = 1;
+                int nDirection = (int)IVision.Direction.RightToLeft;
+
+                switch (strDir)
+                {
+                    case "Right To Left":
+                        nDirection = (int)IVision.Direction.RightToLeft;
+                        break;
+                    case "Left To Right":
+                        nDirection = (int)IVision.Direction.LeftToRight;
+                        break;
+                    case "Top To Bottom":
+                        nDirection = (int)IVision.Direction.ToptoBottom;
+                        break;
+                    case "Bottom To Top":
+                        nDirection = (int)IVision.Direction.BottomToTop;
+                        break;
+                }
+
+                if (IVision.IsMatEmpty(m_MatTrainSource))
+                {
+                    return;
+                }
+
+                Mat MatSub = new Mat();
+
+                m_MatTrainSource.CopyTo(MatSub);
+
+                List<OpenCvSharp.Point> listEdge = IVision.EdgeSub(MatSub, iData.ListCamera[nIndex].ROI, nThreshold, nContrast, nThickness, (IVision.Direction)nDirection, nEdgeColor);
+
+                if (listEdge == null)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "Can't Find the Contour");
+                    Logger.WriteLog(LOG.Inspection, "Can't Find the Contour");
+
+                    return;
+                }
+
+                if (listEdge.Count == 0)
+                {
+                    Logger.WriteLog(LOG.AbNormal, "[Left] Can't Find the Edge");
+                    Logger.WriteLog(LOG.Inspection, "[Left] Can't Find the Edge");
+                    return;
+                }
+
+                if (listEdge.Count > 0)
+                {
+                    List<Point2d> listFitIn = IVision.RansacLineFitting(listEdge, out double dAIn, out double dBIn);
+
+                    if (listFitIn.Count > 1)
+                    {
+                        OpenCvSharp.Point ptStart = new OpenCvSharp.Point((int)listFitIn[0].X + iData.ListCamera[nIndex].ROI.X, (int)listFitIn[0].Y + iData.ListCamera[nIndex].ROI.Y);
+                        OpenCvSharp.Point ptEnd = new OpenCvSharp.Point((int)listFitIn[listFitIn.Count - 1].X + iData.ListCamera[nIndex].ROI.X, (int)listFitIn[listFitIn.Count - 1].Y + iData.ListCamera[nIndex].ROI.Y);
+                        MatSub.Line(ptStart, ptEnd, Scalar.Red, nRansac);
+                    }
+
+                    //if (listFitIn.Count > 1)
+                    //{
+                    //    OpenCvSharp.Point ptStart = new OpenCvSharp.Point((int)listEdge[0].X + iData.ListCamera[nIndex].ROI.X, (int)listEdge[0].Y + iData.ListCamera[nIndex].ROI.Y);
+                    //    OpenCvSharp.Point ptEnd = new OpenCvSharp.Point((int)listEdge[listEdge.Count - 1].X + iData.ListCamera[nIndex].ROI.X, (int)listEdge[listEdge.Count - 1].Y + iData.ListCamera[nIndex].ROI.Y);
+                    //    MatSub.Line(ptStart, ptEnd, Scalar.Red, nRansac);
+                    //}
+                }
+                MatSub.SaveImage(Application.StartupPath + "\\Cam_Test" + ".bmp");
+                pblMain.ImageIpl = MatSub.Resize(new OpenCvSharp.Size(pblMain.Width, pblMain.Height));
+                MatRelease(MatSub);
+            }
+            catch
+            {
+
+            }
+           
+        }
+
+        private void trbLight_SizeChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbLightIndex_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                //int nIndex = ((ComboBox)sender).SelectedIndex;
+
+                if (cbLightModel.SelectedItem == null)
+                {
+                    return;
+                }
+
+                if (cbLightModel.SelectedItem.ToString() == "PD70")
+                {
+                    switch (cbLightIndex.SelectedIndex.ToString())
+                    {
+                        case "6":
+                            trbLight.Value = iData.LightControllerPd70.Channel1Value;
+                            break;
+                        case "7":
+                            trbLight.Value = iData.LightControllerPd70.Channel2Value;
+                            break;
+                        case "8":
+                            trbLight.Value = iData.LightControllerPd70.Channel3Value;
+                            break;
+                        case "9":
+                            trbLight.Value = iData.LightControllerPd70.Channel4Value;
+                            break;
+                    }
+                }
+                else if (cbLightModel.SelectedItem.ToString() == "PD300")
+                {
+                    if (m_nMode == (int)ParameterMode.Inspection)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel1Value;
+                                break;
+                            case "1":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel2Value;
+                                break;
+                            case "2":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel3Value;
+                                break;
+                            case "3":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel4Value;
+                                break;
+                            case "4":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel5Value;
+                                break;
+                            case "5":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel6Value;
+                                break;
+                            case "6":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel7Value;
+                                break;
+                            case "7":
+                                trbLight.Value = iData.LightControllerPd300.InpChannel8Value;
+                                break;
+                        }
+                    }
+                    else if (m_nMode == (int)ParameterMode.Align)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                trbLight.Value = iData.LightControllerPd300.Channel1Value;
+                                break;
+                            case "1":
+                                trbLight.Value = iData.LightControllerPd300.Channel2Value;
+                                break;
+                            case "2":
+                                trbLight.Value = iData.LightControllerPd300.Channel3Value;
+                                break;
+                            case "3":
+                                trbLight.Value = iData.LightControllerPd300.Channel4Value;
+                                break;
+                            case "4":
+                                trbLight.Value = iData.LightControllerPd300.Channel5Value;
+                                break;
+                            case "5":
+                                trbLight.Value = iData.LightControllerPd300.Channel6Value;
+                                break;
+                            case "6":
+                                trbLight.Value = iData.LightControllerPd300.Channel7Value;
+                                break;
+                            case "7":
+                                trbLight.Value = iData.LightControllerPd300.Channel8Value;
+                                break;
+                        }
+
+                    }
+                    else if (m_nMode == (int)ParameterMode.Bottom)
+                    {
+                        switch (cbLightIndex.SelectedIndex.ToString())
+                        {
+                            case "0":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel1Value;
+                                break;
+                            case "1":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel2Value;
+                                break;
+                            case "2":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel3Value;
+                                break;
+                            case "3":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel4Value;
+                                break;
+                            case "4":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel5Value;
+                                break;
+                            case "5":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel6Value;
+                                break;
+                            case "6":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel7Value;
+                                break;
+                            case "7":
+                                trbLight.Value = iData.LightControllerPd300.BottomChannel8Value;
+                                break;
+                        }
+                    }
+                }
+                lbLightValue.Text = trbLight.Value.ToString();
+
+            }
+            catch
+            {
+
+            }
+        }
+    }
+}

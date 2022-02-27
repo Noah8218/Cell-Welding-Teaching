@@ -1,0 +1,1187 @@
+D:\20210406-03\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\20210406-03\obj\x64\Release\IntelligentFactory.Device.DevLightController.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.ILightController.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormIO.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormLicense.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormROI.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormTrain.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\20210406-03\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\20210406-03\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\20210406-03\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210406-03\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+D:\20210406-03\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\20210406-03\obj\x64\Release\IntelligentVision.exe
+D:\20210406-03\obj\x64\Release\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe.config
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.exe
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210403\lg-UG\IntelligentVision.resources.dll
+D:\20210406-05\obj\x64\Release\IntelligentFactory.Device.DevLightController.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.ILightController.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormIO.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormLicense.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormROI.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormTrain.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\20210406-05\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\20210406-05\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\20210406-05\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\20210406-05\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+D:\20210406-05\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\20210406-05\obj\x64\Release\IntelligentVision.exe
+D:\20210406-05\obj\x64\Release\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\dll\x86\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\dll\x64\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\IntelligentVision.exe.config
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\IntelligentVision.exe
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210406\lg-UG\IntelligentVision.resources.dll
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.Device.DevLightController.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.ILightController.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentVision.exe
+E:\20210406-06-20210410T042943Z-001\20210406-06\obj\x64\Release\IntelligentVision.pdb
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210411-01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210411-01\obj\x64\Release\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\dll\x86\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\dll\x64\OpenCvSharpExtern.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\IntelligentVision.exe.config
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\IntelligentVision.exe
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\IntelligentVision.pdb
+D:\2. 실행경로\HAN-DNG-IFV-001-20210412\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210412-01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210412-01\obj\x64\Release\IntelligentVision.pdb
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210413-01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210413-01\obj\x64\Release\IntelligentVision.pdb
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.pdb
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.exe
+F:\Project\동은정공\20210414 - 01\obj\x64\Release\IntelligentVision.pdb
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.exe
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.pdb
+F:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210415 - 01\obj\x64\Release\IntelligentVision.pdb
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.exe
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.pdb
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+D:\0. Drive\송현수 백업 자료\0. 한솔루션_동은정공_사출 외관 검사\0. 소스코드\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormImageView.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormInit.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormIO.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormLicense.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormROI.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormTrain.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.ICanvas.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\lg-UG\IntelligentVision.resources.dll
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentVision.exe
+E:\Project\동은정공\20210418 - 01\obj\x64\Release\IntelligentVision.pdb
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormImageView.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormInit.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormIO.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormPermission.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormROI.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.ICanvas.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.Library.LogView.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.Library.RichTextBoxEx.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\IF\Desktop\Sdi\20210503-01-SHS\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\SDIV_IF_SIDEV_001_0621\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0621\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0621\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0621\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0621\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0621\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0621\IntelligentVision.pdb
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210622_01_Side\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0623_02\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0623_02\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0623_02\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0623_02\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0623_02\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0623_02\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0623_02\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0625\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0625\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0625\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0625\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0625\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0625\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0625\IntelligentVision.pdb
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210623_04_Side 최신\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210626_01_Side 수정중\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210627_01_Side\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0626 수정중\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0626 수정중\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0626 수정중\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0626 수정중\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0626 수정중\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0626 수정중\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0626 수정중\IntelligentVision.pdb
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210630_01_Side\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0630\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0630\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0630\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0630\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0630\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0630\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0630\IntelligentVision.pdb
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210702_02_Side PEC\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0708\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0708\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0708\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0708\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0708\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0708\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0708\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV2_001_0707\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV2_001_0707\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV2_001_0707\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV2_001_0707\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV2_001_0707\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV2_001_0707\IntelligentVision.exe
+D:\SDIV_IF_SIDEV2_001_0707\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0707_CELL10\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0707_CELL10\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0707_CELL10\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0707_CELL10\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0707_CELL10\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0707_CELL10\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0707_CELL10\IntelligentVision.pdb
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210708_01_Side_CELL Modify\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210711_02_SIDE_CELL\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0712\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0712\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0712\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0712\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0712\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0712\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0712\IntelligentVision.pdb
+D:\Source\20210712_01_SIDE_CELL\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210712_02_SIDE_csv_Recent\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210714_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210715_01_SIDE\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210715_02_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210721_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_001_0722\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0722\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_0722\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_0722\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_0722\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_0722\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_0722\IntelligentVision.pdb
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\SDIV_IF_SIDEV_001_Master\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_Master\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_001_Master\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_001_Master\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_001_Master\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_001_Master\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_001_Master\IntelligentVision.pdb
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210722_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\SDIV_IF_SIDEV_0804\dll\x86\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\SDIV_IF_SIDEV_0804\dll\x64\OpenCvSharpExtern.dll
+D:\SDIV_IF_SIDEV_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\SDIV_IF_SIDEV_0804\IntelligentVision.exe.config
+D:\SDIV_IF_SIDEV_0804\IntelligentVision.exe
+D:\SDIV_IF_SIDEV_0804\IntelligentVision.pdb
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.exe
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+D:\Source\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\IntelligentVision.exe.config
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\IntelligentVision.exe
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\SDIV_IF_SIDEV_0804\IntelligentVision.pdb
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.ILightController_DPS.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormECT.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormImageView.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormInit.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormPermission.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.ICanvas.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.LogView.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentVision.exe
+C:\Users\pec\Desktop\SDIV 0804 최신소스\Source\사이드\사이드1\20210804_01_SIDE\obj\x64\Release\IntelligentVision.pdb
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormECT.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormImageView.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormInit.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormPermission.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.ICanvas.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.LogView.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.exe
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.pdb
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+C:\Users\pec\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.ILightController.resources
+C:\Users\pec\Desktop\PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTeaching.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Illumination.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentFactory.CLightController.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\x64\Release\IntelligentVision.pdb

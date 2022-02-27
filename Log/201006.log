@@ -1,0 +1,71 @@
+[NORMAL]   20-10-06 16:41:29.151 [     0]  [OK] Logger==>SetPath
+[NORMAL]   20-10-06 16:41:29.169 [    17]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-10-06 16:41:29.179 [    10]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-10-06 16:41:29.376 [   196]  Start S/W
+[NORMAL]   20-10-06 16:41:29.383 [     7]  [OK] FormMain==>InitImageDirectory
+[NORMAL]   20-10-06 16:41:29.390 [     6]  [OK] IData==>ReadInitFileFromXML
+[ABNORMAL] 20-10-06 16:41:29.401 [    10]  [FAILED] IRecipe==>ReadInitFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-10-06 16:41:29.406 [     5]  [OK] FormMain==>InitRecipe
+[ABNORMAL] 20-10-06 16:41:29.493 [    86]  [FAILED] IRecipe==>ReadInitFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-10-06 16:41:29.497 [     3]  [OK] FormMain==>InitRecipe
+[ABNORMAL] 20-10-06 16:41:29.502 [     4]  [FAILED] IRecipe==>ReadInitOffsetFile   Execption ==> 경로에 잘못된 문자가 있습니다.
+[NORMAL]   20-10-06 16:41:29.507 [     4]  [OK] FormMain==>InitConfig
+[NORMAL]   20-10-06 16:41:29.514 [     6]  [OK] ILightController==>ReadInitFileFromXML
+[ABNORMAL] 20-10-06 16:41:29.537 [    22]  [FAILED] ILightController/Init   Execption ==> 'COM5' 포트가 없습니다.
+[NORMAL]   20-10-06 16:41:29.546 [     8]  [OK] ILightController==>ReadInitFileFromXML
+[ABNORMAL] 20-10-06 16:41:29.551 [     4]  [FAILED] ILightController/Init   Execption ==> 'COM5' 포트가 없습니다.
+[NORMAL]   20-10-06 16:41:29.555 [     3]  [OK] FormMain==>InitLightController
+[ABNORMAL] 20-10-06 16:41:29.596 [    40]  [FAILED] ICommCCLink/Init   Error Code ==> 1
+[NORMAL]   20-10-06 16:41:29.601 [     4]  [OK] ICommCCLink==>Init
+[NORMAL]   20-10-06 16:41:29.606 [     4]  [OK] FormMain==>InitCCLink
+[NORMAL]   20-10-06 16:41:29.648 [    41]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-10-06 16:41:29.654 [     5]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.770 [   116]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.774 [     3]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.788 [    13]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.793 [     4]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.797 [     3]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.811 [    13]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.816 [     4]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.820 [     3]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.834 [    13]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.839 [     4]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.843 [     3]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.857 [    13]  [FAILED] ICameraJai/UpdateParameter   Execption ==> True
+[NORMAL]   20-10-06 16:41:29.867 [     9]  [OK] ICameraJai==>WriteInitFile
+[NORMAL]   20-10-06 16:41:29.872 [     4]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.878 [     5]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.881 [     2]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.896 [    14]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.901 [     4]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.905 [     3]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.920 [    14]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.925 [     4]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.929 [     3]  [OK] ICameraJai==>Disconnect
+[NORMAL]   20-10-06 16:41:29.944 [    14]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.950 [     6]  [FAILED] ICameraJai/Connect   Execption ==> GENERIC_ERROR: Cannot connect the socket. Error = 10051.
+[NORMAL]   20-10-06 16:41:29.954 [     3]  [OK] ICameraJai==>Disconnect
+[ABNORMAL] 20-10-06 16:41:29.968 [    13]  [FAILED] ICameraJai/UpdateParameter   Execption ==> True
+[NORMAL]   20-10-06 16:41:29.987 [    18]  [OK] FormMain==>ResizeCamera
+[NORMAL]   20-10-06 16:41:29.992 [     4]  [OK] FormMain==>InitCamera
+[NORMAL]   20-10-06 16:41:29.997 [     4]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.002 [     4]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.064 [    61]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.102 [    37]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.107 [     4]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.120 [    12]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.200 [    80]  [OK] FormMain==>InitMenu
+[NORMAL]   20-10-06 16:41:30.206 [     5]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:30.210 [     3]  [OK] FormMain==>StopThreadSupplyInspection
+[NORMAL]   20-10-06 16:41:30.215 [     4]  [OK] FormMain==>StopThreadLami
+[NORMAL]   20-10-06 16:41:30.220 [     4]  [OK] FormMain==>StopThreadInspectionLami
+[NORMAL]   20-10-06 16:41:31.128 [   907]  [OK] FormMain==>StopThreadLive
+[ABNORMAL] 20-10-06 16:41:31.134 [     5]  [FAILED] Camera Init ILightController/LightTurnOff   Execption ==> 포트가 닫혀 있습니다.
+[ABNORMAL] 20-10-06 16:41:31.138 [     3]  [FAILED] Camera Init ILightController/LightTurnOff   Execption ==> 포트가 닫혀 있습니다.
+[NORMAL]   20-10-06 16:41:31.142 [     3]  [OK] FormMain==>StopThreadLive
+[NORMAL]   20-10-06 16:41:31.146 [     3]  [OK] FormMain==>StopThreadSupplyInspection
+[NORMAL]   20-10-06 16:41:31.150 [     3]  [OK] FormMain==>StopThreadLami
+[NORMAL]   20-10-06 16:41:31.154 [     3]  [OK] FormMain==>StopThreadInspectionLami
+[NORMAL]   20-10-06 16:41:31.158 [     3]  [OK] ICameraJai==>Dispose
+[NORMAL]   20-10-06 16:41:31.162 [     3]  [OK] ICameraJai==>Dispose
+[NORMAL]   20-10-06 16:41:31.198 [    35]  [OK] FormMain==>OnClickMenu   Action ==> Exit

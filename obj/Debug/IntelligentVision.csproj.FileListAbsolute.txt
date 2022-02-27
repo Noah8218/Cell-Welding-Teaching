@@ -1,0 +1,1703 @@
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.ILightController_DPS.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormInit.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormIO.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormLicense.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormMetroFrameBackup.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormROI.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormTrain.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.Library.LogView.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.Library.RichTextBoxEx.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.lg-UG.resources
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\lg-UG\IntelligentVision.resources.dll
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.exe
+D:\송현수 테스트\20210419 - 02 - SHS\obj\Debug\IntelligentVision.pdb
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.ILightController_DPS.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormIO.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormROI.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.Library.LogView.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.Library.RichTextBoxEx.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentVision.exe
+C:\Users\ata11\Desktop\송현수\1. 프로젝트\20210503-01-SHS\obj\Debug\IntelligentVision.pdb
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.ILightController_DPS.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.CLIGHTCON_ELIGHT.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormROI.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.LogView.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Source\SDI향_셀 외관검사\20210517-01-SIDE\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\00000000-IFV-TOOLS\20210811_02\IntelligentVisionTools\bin\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.CLightController.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\202108019-플러스엔지니어링-셀어레이비전\사본(11) - PLS 0810\PLS 0810\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.exe.config
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.exe
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.pdb
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\iLicense.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.Design.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.Fonts.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\MvCameraControl.Net.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Blob.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Extensions.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.UserInterface.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\PACNET.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\Vila.Core.dll
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\MvCameraControl.Net.xml
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.xml
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Blob.xml
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Extensions.xml
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.CLightController.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormECT.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.LogView.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.exe
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.pdb
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+C:\Users\IF\Desktop\업무\프로젝트\셀_어레이_비전\대표님\PLS_IF_0804\ImageGlass.ImageBox.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.exe.config
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.exe
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\IntelligentVision.pdb
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\iLicense.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\ImageGlass.ImageBox.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.Design.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\MetroFramework.Fonts.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\MvCameraControl.Net.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Blob.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Extensions.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.UserInterface.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\PACNET.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\Vila.Core.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\MvCameraControl.Net.xml
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.xml
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Blob.xml
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\OpenCvSharp.Extensions.xml
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\PLS_IF_0804\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.CLightController.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormECT.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.LogView.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.exe
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.pdb
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\IntelligentVision.exe.config
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\IntelligentVision.exe
+C:\Users\VISION\Desktop\셀_어레이_비전\PLS_IF_0804\IntelligentVision.pdb
+C:\Users\VISION\Desktop\셀_어레이_비전\대표님\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+F:\셀_어레이_비전_new\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+F:\셀_어레이_비전_new\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+F:\셀_어레이_비전_new\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+F:\셀_어레이_비전_new\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+F:\셀_어레이_비전_new\PLS_IF_0804\IntelligentVision.exe.config
+F:\셀_어레이_비전_new\PLS_IF_0804\IntelligentVision.exe
+F:\셀_어레이_비전_new\PLS_IF_0804\IntelligentVision.pdb
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.CLightController.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormAlarm.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormECT.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTeaching.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormImageView.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormInit.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormIO_BD.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormMessageBox.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormPermission.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormRecipe.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.ICanvas.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.LogView.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.Properties.Resources.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormImageEditView.resources
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.CopyComplete
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.exe
+F:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.pdb
+E:\셀_어레이_비전_new\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+E:\셀_어레이_비전_new\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\셀_어레이_비전_new\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+E:\셀_어레이_비전_new\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\셀_어레이_비전_new\PLS 0810\IntelligentVision.exe.config
+E:\셀_어레이_비전_new\PLS 0810\IntelligentVision.exe
+E:\셀_어레이_비전_new\PLS 0810\IntelligentVision.pdb
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.CLightController.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormECT.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTeaching.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormInit.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.LogView.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.csproj.CopyComplete
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.exe
+E:\셀_어레이_비전_new\대표님\obj\Debug\IntelligentVision.pdb
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\IntelligentVision.exe.config
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\IntelligentVision.exe
+E:\Project\플러스엔지니어링\셀 어레이\PLS_IF_0804\IntelligentVision.pdb
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.CLightController.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormECT.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormTeaching.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormInit.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_Illumination.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.LogView.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentVision.csproj.CopyComplete
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentVision.exe
+E:\Project\플러스엔지니어링\셀 어레이\대표님\obj\Debug\IntelligentVision.pdb
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\IntelligentVision.exe.config
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\IntelligentVision.exe
+E:\Project\플러스엔지니어링\셀 어레이\PLS 0810\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_02_SHS\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_05_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210824_06_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Cell_welding_Teaching\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+C:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.exe
+C:\Users\jacka\Desktop\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.exe
+C:\Program Files\PLS\Source\CELL_Position_Teaching_20210825_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+D:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.exe
+D:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+E:\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.exe
+E:\Project\플러스엔지니어링\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\Users\jacka\Desktop\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\셀 포지션티칭\CELL_Position_Teaching_20210826_01_SHS_merge\obj\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210903_01_SHS\obj\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210906_01_SHS\obj\Debug\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+D:\0. DRIVE\0. Project\1. 진행중\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.exe
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210914_01_SHS\obj\Debug\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormTeaching.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.exe
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.pdb
+D:\0. DRIVE\0. Project\1. 진행중\20210825 - 플러스엔지니어링-CellWelding\1.Source\CELL_Position_Teaching_20210915_01_SHS\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\PLS 0810\PLS_IF_0804\dll\x86\OpenCvSharpExtern.dll
+C:\[0.Project]\PLS 0810\PLS_IF_0804\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0.Project]\PLS 0810\PLS_IF_0804\dll\x64\OpenCvSharpExtern.dll
+C:\[0.Project]\PLS 0810\PLS_IF_0804\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0.Project]\PLS 0810\PLS_IF_0804\IntelligentVision.exe.config
+C:\[0.Project]\PLS 0810\PLS_IF_0804\IntelligentVision.exe
+C:\[0.Project]\PLS 0810\PLS_IF_0804\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_01\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_02\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_03\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211017_04\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\dll\x86\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\dll\x64\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\IntelligentVision.exe.config
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\PLS 0830\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211019_02\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\dll\x86\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\dll\x64\OpenCvSharpExtern.dll
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\IntelligentVision.exe.config
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\Users\jacka\Desktop\PLS 0830\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211020_01\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_01\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormTeaching.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormTeachingSelect.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormTemplateTrain.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211021_02\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_01\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\CELL_Position_Teaching_20211025_04\obj\Debug\IntelligentVision.pdb
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\dll\x86\OpenCvSharpExtern.dll
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\dll\x64\OpenCvSharpExtern.dll
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\IntelligentVision.exe.config
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\IntelligentVision.exe
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\PLS 0830\IntelligentVision.pdb
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormECT.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormInit.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.LogView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.CopyComplete
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.exe
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.pdb
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormECT.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormInit.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.LogView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.exe
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-01\obj\Debug\IntelligentVision.pdb
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormECT.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormInit.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.LogView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.exe
+E:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.pdb
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormECT.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormInit.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.LogView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.exe
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Debug\IntelligentVision.pdb
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentVision.exe
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentVision.pdb
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\IntelligentVision.exe.config
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\IntelligentVision.exe
+D:\0. Intelligent Factory\99. Drive\0. Project\1. 진행중\PLS 0810\IntelligentVision.pdb
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.exe
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211207-01\obj\Debug\IntelligentVision.pdb
+D:\0. Drive\1. 진행중\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\1. 진행중\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\1. 진행중\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\1. 진행중\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\1. 진행중\PLS 0810\IntelligentVision.exe.config
+D:\0. Drive\1. 진행중\PLS 0810\IntelligentVision.exe
+D:\0. Drive\1. 진행중\PLS 0810\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Debug\IntelligentVision.pdb
+D:\1. 진행중\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+D:\1. 진행중\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\1. 진행중\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+D:\1. 진행중\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\1. 진행중\PLS 0810\IntelligentVision.exe.config
+D:\1. 진행중\PLS 0810\IntelligentVision.exe
+D:\1. 진행중\PLS 0810\IntelligentVision.pdb
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormAlarm.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormECT.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormImageView.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormInit.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormIO_BD.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormMessageBox.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormPermission.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormRecipe.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.ICanvas.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.LogView.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.Properties.Resources.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentFactory.FormImageEditView.resources
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.csproj.CopyComplete
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.exe
+D:\업무\프로젝트\플러스엔지니어링\셀 용접 티칭\obj\Debug\IntelligentVision.pdb
+E:\1. 진행중\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+E:\1. 진행중\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+E:\1. 진행중\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+E:\1. 진행중\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+E:\1. 진행중\PLS 0810\IntelligentVision.exe.config
+E:\1. 진행중\PLS 0810\IntelligentVision.exe
+E:\1. 진행중\PLS 0810\IntelligentVision.pdb
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormAlarm.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormECT.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormImageView.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormInit.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormIO_BD.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormMessageBox.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormPermission.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormRecipe.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.ICanvas.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.LogView.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.Properties.Resources.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentFactory.FormImageEditView.resources
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.csproj.CopyComplete
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.exe
+E:\셀 용접 티칭_20220224\obj\Debug\IntelligentVision.pdb
+C:\1. 진행중\PLS 0810\dll\x86\OpenCvSharpExtern.dll
+C:\1. 진행중\PLS 0810\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\1. 진행중\PLS 0810\dll\x64\OpenCvSharpExtern.dll
+C:\1. 진행중\PLS 0810\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\1. 진행중\PLS 0810\IntelligentVision.exe.config
+C:\1. 진행중\PLS 0810\IntelligentVision.exe
+C:\1. 진행중\PLS 0810\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.csproj.SuggestedBindingRedirects.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_1\obj\Debug\IntelligentVision.pdb
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.csproj.AssemblyReference.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.csproj.SuggestedBindingRedirects.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormAlarm.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormECT.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormIO_PLC.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_Grabber.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_CVEdge.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_EMatcher.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_EDataMatrix.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_EROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormImageView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormInit.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormIO_BD.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormMessageBox.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormMetroFrame.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_ECircleGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_EFilter.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormPermission.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_ELineGuage.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_Camera.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormRecipe.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.ICanvas.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.IntelligentGraph.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.LogView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.RichTextBoxEx.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.Properties.Resources.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormSettings_MROI.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentFactory.FormImageEditView.resources
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.csproj.GenerateResource.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.csproj.CoreCompileInputs.cache
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.csproj.CopyComplete
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.exe
+C:\[0.Project]\3. 플러스엔지니어링\셀 포지션\셀 용접 티칭_20220224_2\obj\Debug\IntelligentVision.pdb

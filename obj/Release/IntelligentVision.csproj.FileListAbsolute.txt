@@ -1,0 +1,241 @@
+C:\Users\jacka\Desktop\ExcutePath\dll\x86\OpenCvSharpExtern.dll
+C:\Users\jacka\Desktop\ExcutePath\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\jacka\Desktop\ExcutePath\dll\x64\OpenCvSharpExtern.dll
+C:\Users\jacka\Desktop\ExcutePath\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\jacka\Desktop\ExcutePath\IntelligentVision.exe.config
+C:\Users\jacka\Desktop\ExcutePath\IntelligentVision.exe
+C:\Users\jacka\Desktop\ExcutePath\IntelligentVision.pdb
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.csproj.AssemblyReference.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormAlarm.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormECT.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormIO_PLC.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormImageView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormInit.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormIO_BD.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormMessageBox.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormMetroFrame.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormPermission.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormRecipe.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.ICanvas.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.IntelligentGraph.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.LogView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.Properties.Resources.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentFactory.FormImageEditView.resources
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.csproj.CopyComplete
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.exe
+D:\플러스엔지니어링 셋업\셀 용접 포지션 티칭\20211123-02\obj\Release\IntelligentVision.pdb
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormECT.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormIO_PLC.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormImageView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormInit.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormIO_BD.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormPermission.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.ICanvas.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.LogView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentFactory.FormImageEditView.resources
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentVision.exe
+D:\0. Intelligent Factory\99. Drive\0. Project\5. 업체\플러스엔지니어링\셀 용접 포지션 티칭\20211204-01\obj\Release\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\iLicense.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\ImageGlass.ImageBox.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\MetroFramework.Design.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\MetroFramework.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\MetroFramework.Fonts.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\MvCameraControl.Net.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.Blob.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.Extensions.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\PACNET.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\Vila.Core.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\MvCameraControl.Net.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.Blob.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\OpenCvSharp.Extensions.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211207-01 (2)\obj\Release\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\iLicense.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\ImageGlass.ImageBox.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\MetroFramework.Design.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\MetroFramework.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\MetroFramework.Fonts.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\MvCameraControl.Net.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.Blob.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.Extensions.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\PACNET.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\Vila.Core.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\MvCameraControl.Net.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.Blob.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\OpenCvSharp.Extensions.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20211222-01\obj\Release\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\IntelligentVision.exe.config
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\IntelligentVision.pdb
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\iLicense.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\ImageGlass.ImageBox.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\MetroFramework.Design.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\MetroFramework.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\MetroFramework.Fonts.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\MvCameraControl.Net.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.Blob.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.Extensions.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\PACNET.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\Vila.Core.dll
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\MvCameraControl.Net.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.Blob.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\OpenCvSharp.Extensions.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.csprojAssemblyReference.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormAlarm.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormECT.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormIO_PLC.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_Grabber.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_CVEdge.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_EMatcher.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_EDataMatrix.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_EROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormImageView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormInit.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormIO_BD.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormMessageBox.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormMetroFrame.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_ECircleGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_EFilter.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormPermission.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_ELineGuage.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_Camera.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormRecipe.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.ICanvas.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.IntelligentGraph.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.LogView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.RichTextBoxEx.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.Properties.Resources.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormSettings_MROI.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentFactory.FormImageEditView.resources
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.csproj.GenerateResource.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.csproj.CoreCompileInputs.cache
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.csproj.CopyComplete
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.exe
+D:\0. Drive\0. Project\1. 진행중\20211209-플러스엔지니어링-셀용접티칭\20220104-01\obj\Release\IntelligentVision.pdb

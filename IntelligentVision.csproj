@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\OpenCvSharp4.runtime.win.4.3.0.20200421\build\net\OpenCvSharp4.runtime.win.props" Condition="Exists('packages\OpenCvSharp4.runtime.win.4.3.0.20200421\build\net\OpenCvSharp4.runtime.win.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A4C00DB-1734-4DD1-BF8C-C6C4DFFA571F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IntelligentFactory</RootNamespace>
+    <AssemblyName>IntelligentVision</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>false</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\1. 진행중\PLS 0810\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST, _EURESYS, OPENCV, _DPS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;TEST</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Camera.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\2. 실행경로\HAN-DNG-IFV-001-20210403\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST, NO_CAMERA</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>D:\2. 실행경로\HAN-DNG-IFV-001-20210412\</OutputPath>
+    <DefineConstants>TRACE;TEST, NO_CAMERA</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\SDIV_IF_SIDEV_0804\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST, MIL, OPENCV, MATROX_SOLIOS, _BASLER_AREA, MATROX, Side_1</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>..\PLS_IF_0804\</OutputPath>
+    <DefineConstants>TRACE;TEST, _MIL, OPENCV, _MATROX_SOLIOS, _BASLER_AREA, _MATROX</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Side_2|AnyCPU'">
+    <OutputPath>bin\Side_2\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Side_2|x86'">
+    <OutputPath>bin\x86\Side_2\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Side_2|x64'">
+    <OutputPath>bin\x64\Side_2\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="iLicense">
+      <HintPath>.\iLicense.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageGlass.ImageBox, Version=8.0.7803.19998, Culture=neutral, PublicKeyToken=58daa28b0b2de221, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\ImageGlass.ImageBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ACTMULTILib">
+      <HintPath>dll\Interop.ACTMULTILib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.ActUtlTypeLib">
+      <HintPath>dll\Interop.ActUtlTypeLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MvCameraControl.Net">
+      <HintPath>.\MvCameraControl.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>packages\OpenCvSharp4.4.3.0.20200421\lib\net461\OpenCvSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>packages\OpenCvSharp4.4.3.0.20200421\lib\net461\OpenCvSharp.Blob.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>packages\OpenCvSharp4.4.3.0.20200421\lib\net461\OpenCvSharp.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.UserInterface">
+      <HintPath>Dll\OpenCvSharp.UserInterface.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PACNET, Version=2.1.0.5, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\PACNET.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.7.1\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Vila.Core">
+      <HintPath>dll\Vila.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\IAlarm.cs" />
+    <Compile Include="Common\IArgument.cs" />
+    <Compile Include="Common\CConverter.cs" />
+    <Compile Include="Common\DEFINE.cs" />
+    <Compile Include="0. Core\IData.cs" />
+    <Compile Include="0. Core\IDevice.cs" />
+    <Compile Include="0. Core\IGlobal.cs" />
+    <Compile Include="Common\CRecipe.cs" />
+    <Compile Include="Device\CCommMelsec.cs" />
+    <Compile Include="Device\CJSL200.cs" />
+    <Compile Include="Device\CSignal.cs" />
+    <Compile Include="FormCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormCheckBox.Designer.cs">
+      <DependentUpon>FormCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormECT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormECT.Designer.cs">
+      <DependentUpon>FormECT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIO_PLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIO_PLC.Designer.cs">
+      <DependentUpon>FormIO_PLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ETC\ISample.cs" />
+    <Compile Include="Common\ISpecification.cs" />
+    <Compile Include="0. Core\ISystem.cs" />
+    <Compile Include="Common\CUtil.cs" />
+    <Compile Include="FormSettings_Grabber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettings_Grabber.Designer.cs">
+      <DependentUpon>FormSettings_Grabber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Library\IntelligentImageView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Library\IntelligentImageView.Designer.cs">
+      <DependentUpon>IntelligentImageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\1. Tools\MIL\IVT_MBlob.cs" />
+    <Compile Include="Vision\1. Tools\MIL\IVT_MDataMatrix.cs" />
+    <Compile Include="Vision\1. Tools\MIL\IVT_MMeas.cs" />
+    <Compile Include="Vision\1. Tools\MIL\IVT_MThreshold.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\CIVT_CVLineGuage.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\CIVT_CVMatching.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\CPropertyCellPosition.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\CPropertyLineGuage.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\CPropertyMatching.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\FormSettings_CVEdge.cs" />
+    <Compile Include="Vision\1. Tools\OpenCV\FormSettings_CVEdge.Designer.cs">
+      <DependentUpon>FormSettings_CVEdge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EMatcher.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EMatcher.Designer.cs">
+      <DependentUpon>FormSettings_EMatcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EBCR.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EBCR.Designer.cs">
+      <DependentUpon>FormSettings_EBCR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EROI.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EROI.Designer.cs">
+      <DependentUpon>FormSettings_EROI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImageView.Designer.cs">
+      <DependentUpon>FormImageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIO_BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIO_BD.Designer.cs">
+      <DependentUpon>FormIO_BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMetroFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMetroFrame.Designer.cs">
+      <DependentUpon>FormMetroFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_ECircleGuage.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_ECircleGuage.Designer.cs">
+      <DependentUpon>FormSettings_ECircleGuage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EFilter.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_EFilter.Designer.cs">
+      <DependentUpon>FormSettings_EFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPermission.Designer.cs">
+      <DependentUpon>FormPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_ELineGuage.cs" />
+    <Compile Include="Vision\2. Forms\Euresys\FormSettings_ELineGuage.Designer.cs">
+      <DependentUpon>FormSettings_ELineGuage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettings_Camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettings_Camera.Designer.cs">
+      <DependentUpon>FormSettings_Camera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Library\Logger.cs" />
+    <Compile Include="Library\LogView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Library\LogView.designer.cs">
+      <DependentUpon>LogView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlarm.Designer.cs">
+      <DependentUpon>FormAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInit.Designer.cs">
+      <DependentUpon>FormInit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessageBox.Designer.cs">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRecipe.Designer.cs">
+      <DependentUpon>FormRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\IMath.cs" />
+    <Compile Include="Common\IVision.cs" />
+    <Compile Include="ICanvas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ICanvas.Designer.cs">
+      <DependentUpon>ICanvas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Library\IntelligentGraph.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Library\IntelligentGraph.Designer.cs">
+      <DependentUpon>IntelligentGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Library\IThreadStatus.cs" />
+    <Compile Include="Library\RichTextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vision\1. Tools\Euresys\IVT_ETemplateMatching.cs" />
+    <Compile Include="Vision\2. Forms\MIL\FormSettings_MROI.cs" />
+    <Compile Include="Vision\2. Forms\MIL\FormSettings_MROI.Designer.cs">
+      <DependentUpon>FormSettings_MROI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Popup\CPropertyImageView.cs" />
+    <Compile Include="Vision\2. Forms\Popup\FormImageEditView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vision\2. Forms\Popup\FormImageEditView.Designer.cs">
+      <DependentUpon>FormImageEditView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vision\3. Sequence\CSeqVision.cs" />
+    <EmbeddedResource Include="FormAlarm.resx">
+      <DependentUpon>FormAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormECT.resx">
+      <DependentUpon>FormECT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIO_PLC.resx">
+      <DependentUpon>FormIO_PLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettings_Grabber.resx">
+      <DependentUpon>FormSettings_Grabber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\1. Tools\OpenCV\FormSettings_CVEdge.resx">
+      <DependentUpon>FormSettings_CVEdge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_EMatcher.resx">
+      <DependentUpon>FormSettings_EMatcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_EBCR.resx">
+      <DependentUpon>FormSettings_EBCR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_EROI.resx">
+      <DependentUpon>FormSettings_EROI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImageView.resx">
+      <DependentUpon>FormImageView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInit.resx">
+      <DependentUpon>FormInit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIO_BD.resx">
+      <DependentUpon>FormIO_BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessageBox.resx">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMetroFrame.resx">
+      <DependentUpon>FormMetroFrame.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_ECircleGuage.resx">
+      <DependentUpon>FormSettings_ECircleGuage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_EFilter.resx">
+      <DependentUpon>FormSettings_EFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPermission.resx">
+      <DependentUpon>FormPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Euresys\FormSettings_ELineGuage.resx">
+      <DependentUpon>FormSettings_ELineGuage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettings_Camera.resx">
+      <DependentUpon>FormSettings_Camera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRecipe.resx">
+      <DependentUpon>FormRecipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICanvas.resx">
+      <DependentUpon>ICanvas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Library\IntelligentGraph.resx">
+      <DependentUpon>IntelligentGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Library\LogView.resx">
+      <DependentUpon>LogView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Library\RichTextBoxEx.resx">
+      <DependentUpon>RichTextBoxEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\MIL\FormSettings_MROI.resx">
+      <DependentUpon>FormSettings_MROI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vision\2. Forms\Popup\FormImageEditView.resx">
+      <DependentUpon>FormImageEditView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonBackGround.jpg" />
+    <None Include="Resources\Reset_1.png" />
+    <None Include="Resources\Play_1.png" />
+    <None Include="Resources\Stop_1.png" />
+    <None Include="Resources\icons8-play-64.png" />
+    <None Include="Resources\Recipe_1.png" />
+    <None Include="Resources\Setting_1.png" />
+    <None Include="Resources\Main_1.png" />
+    <None Include="Resources\Disconnected.png" />
+    <None Include="Resources\Chart_1_1.png" />
+    <None Include="Resources\Background1.png" />
+    <None Include="Resources\Chart_1.png" />
+    <None Include="Resources\Chart_1.5.png" />
+    <None Include="Resources\Chart_2.png" />
+    <None Include="Resources\Background.png" />
+    <None Include="Resources\Camera.ico" />
+    <None Include="Resources\Title Background.jpg" />
+    <None Include="Resources\Stop_MouseOff.jpg" />
+    <None Include="Resources\Live_MouseOff.jpg" />
+    <None Include="Resources\ImageSave_MouseOff.jpg" />
+    <None Include="Resources\Apply_MouseOn.jpg" />
+    <None Include="Resources\Train_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apply_MouseOff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Camera.ico" />
+    <Content Include="MetroFramework.Design.dll" />
+    <Content Include="MetroFramework.dll" />
+    <Content Include="MetroFramework.Fonts.dll" />
+    <None Include="Resources\삼성SDI 로고.PNG" />
+    <None Include="Resources\webcam-4-321.png" />
+    <None Include="Resources\switch-481.png" />
+    <None Include="Resources\settings-5-481.png" />
+    <None Include="Resources\settings-12-481.png" />
+    <None Include="Resources\private-481.png" />
+    <None Include="Resources\monitor-481.png" />
+    <None Include="Resources\keyboard-5-481.png" />
+    <None Include="Resources\close-window-241.png" />
+    <None Include="Resources\brain-641.png" />
+    <None Include="Resources\webcam-4-32.png" />
+    <None Include="Resources\Train_11.png" />
+    <None Include="Resources\switch-48.png" />
+    <None Include="Resources\Stop_MouseOff1.jpg" />
+    <None Include="Resources\Stop_11.png" />
+    <None Include="Resources\settings-5-48.png" />
+    <None Include="Resources\settings-12-48.png" />
+    <None Include="Resources\Setting_11.png" />
+    <None Include="Resources\Reset_11.png" />
+    <None Include="Resources\Recipe_11.png" />
+    <None Include="Resources\private-48.png" />
+    <None Include="Resources\Play_11.png" />
+    <None Include="Resources\monitor-48.png" />
+    <None Include="Resources\Main_11.png" />
+    <None Include="Resources\Live_MouseOff1.jpg" />
+    <None Include="Resources\keyboard-5-48.png" />
+    <None Include="Resources\ImageSave_MouseOff1.jpg" />
+    <None Include="Resources\Disconnected1.png" />
+    <None Include="Resources\Title Background1.jpg" />
+    <None Include="Resources\close-window-24.png" />
+    <None Include="Resources\Chart_1_11.png" />
+    <None Include="Resources\ButtonBackGround1.jpg" />
+    <None Include="Resources\brain-64.png" />
+    <None Include="Resources\Background2.png" />
+    <None Include="Resources\Apply_MouseOn1.jpg" />
+    <None Include="Resources\Apply_MouseOff1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Format\" />
+    <Folder Include="Vision\0. Device\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\OpenCvSharp4.runtime.win.4.3.0.20200421\build\net\OpenCvSharp4.runtime.win.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\OpenCvSharp4.runtime.win.4.3.0.20200421\build\net\OpenCvSharp4.runtime.win.props'))" />
+  </Target>
+</Project>
